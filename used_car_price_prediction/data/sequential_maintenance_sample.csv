@@ -1,0 +1,801 @@
+timestamp,vehicle_id,step_index,mileage,observed_symptom,hidden_state,recommended_action
+2023-01-01 11:00,VEH-1001,1,36364,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 14:00,VEH-1001,2,36889,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-29 13:00,VEH-1001,3,37360,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-12 11:00,VEH-1001,4,38106,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-26 11:00,VEH-1001,5,38808,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-03-12 16:00,VEH-1001,6,39224,Smooth Ride,Critical System Fault,Routine Inspection
+2023-03-26 10:00,VEH-1001,7,39671,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-04-09 13:00,VEH-1001,8,40190,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 10:00,VEH-1001,9,40877,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 13:00,VEH-1001,10,41643,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 16:00,VEH-1001,11,42155,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 17:00,VEH-1001,12,42856,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 14:00,VEH-1001,13,43670,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 10:00,VEH-1001,14,44458,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 12:00,VEH-1001,15,45215,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 16:00,VEH-1001,16,45789,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 14:00,VEH-1001,17,46268,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 13:00,VEH-1001,18,47158,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-09-10 15:00,VEH-1001,19,47610,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-24 11:00,VEH-1001,20,48204,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 15:00,VEH-1002,1,19002,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 15:00,VEH-1002,2,19711,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 14:00,VEH-1002,3,20524,Engine Noise,Minor Component Wear,Engine Inspection
+2023-02-12 10:00,VEH-1002,4,21297,Engine Noise,Minor Component Wear,Engine Inspection
+2023-02-26 17:00,VEH-1002,5,21971,Engine Noise,Minor Component Wear,Engine Inspection
+2023-03-12 11:00,VEH-1002,6,22869,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-03-26 16:00,VEH-1002,7,23309,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-04-09 14:00,VEH-1002,8,24133,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-04-23 15:00,VEH-1002,9,24828,Engine Noise,Critical System Fault,Engine Inspection
+2023-05-07 13:00,VEH-1002,10,25588,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 11:00,VEH-1002,11,26011,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 13:00,VEH-1002,12,26806,Engine Noise,Normal Operation,Engine Inspection
+2023-06-18 14:00,VEH-1002,13,27246,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 13:00,VEH-1002,14,28089,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 11:00,VEH-1002,15,28683,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 14:00,VEH-1002,16,29315,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-08-13 15:00,VEH-1002,17,29798,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 15:00,VEH-1002,18,30379,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 13:00,VEH-1002,19,31122,Engine Noise,Normal Operation,Engine Inspection
+2023-09-24 14:00,VEH-1002,20,31881,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 11:00,VEH-1003,1,38109,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-15 12:00,VEH-1003,2,38782,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 13:00,VEH-1003,3,39265,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 17:00,VEH-1003,4,39859,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 14:00,VEH-1003,5,40732,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-03-12 13:00,VEH-1003,6,41482,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 15:00,VEH-1003,7,42313,Engine Noise,Normal Operation,Engine Inspection
+2023-04-09 10:00,VEH-1003,8,42830,Engine Noise,Normal Operation,Engine Inspection
+2023-04-23 10:00,VEH-1003,9,43642,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 15:00,VEH-1003,10,44247,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 14:00,VEH-1003,11,44680,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 13:00,VEH-1003,12,45547,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 15:00,VEH-1003,13,46055,Brake Squeal,Normal Operation,Brake Service
+2023-07-02 17:00,VEH-1003,14,46657,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 17:00,VEH-1003,15,47130,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 14:00,VEH-1003,16,47601,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 13:00,VEH-1003,17,48382,Brake Squeal,Normal Operation,Brake Service
+2023-08-27 14:00,VEH-1003,18,49164,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 16:00,VEH-1003,19,50023,Brake Squeal,Minor Component Wear,Brake Service
+2023-09-24 16:00,VEH-1003,20,50608,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-01 12:00,VEH-1004,1,22846,Engine Noise,Normal Operation,Engine Inspection
+2023-01-15 17:00,VEH-1004,2,23292,Engine Noise,Minor Component Wear,Engine Inspection
+2023-01-29 10:00,VEH-1004,3,24132,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 11:00,VEH-1004,4,24610,Engine Noise,Normal Operation,Engine Inspection
+2023-02-26 12:00,VEH-1004,5,25415,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-12 16:00,VEH-1004,6,26120,Engine Noise,Minor Component Wear,Engine Inspection
+2023-03-26 11:00,VEH-1004,7,26717,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-09 16:00,VEH-1004,8,27422,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-04-23 17:00,VEH-1004,9,28092,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-07 14:00,VEH-1004,10,28989,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-21 10:00,VEH-1004,11,29737,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-06-04 11:00,VEH-1004,12,30486,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 14:00,VEH-1004,13,31279,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 15:00,VEH-1004,14,31736,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 14:00,VEH-1004,15,32358,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 12:00,VEH-1004,16,32990,Brake Squeal,Normal Operation,Brake Service
+2023-08-13 10:00,VEH-1004,17,33878,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 14:00,VEH-1004,18,34775,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-09-10 12:00,VEH-1004,19,35434,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 11:00,VEH-1004,20,36279,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 14:00,VEH-1005,1,36319,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 13:00,VEH-1005,2,36797,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 15:00,VEH-1005,3,37587,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 12:00,VEH-1005,4,38263,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 10:00,VEH-1005,5,38969,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 15:00,VEH-1005,6,39619,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 10:00,VEH-1005,7,40076,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 15:00,VEH-1005,8,40925,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 14:00,VEH-1005,9,41447,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 10:00,VEH-1005,10,41970,Brake Squeal,Normal Operation,Brake Service
+2023-05-21 11:00,VEH-1005,11,42413,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 17:00,VEH-1005,12,43230,Brake Squeal,Normal Operation,Brake Service
+2023-06-18 11:00,VEH-1005,13,44130,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-02 12:00,VEH-1005,14,44595,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-16 17:00,VEH-1005,15,45479,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-30 12:00,VEH-1005,16,46014,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-13 16:00,VEH-1005,17,46907,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-08-27 13:00,VEH-1005,18,47782,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-10 13:00,VEH-1005,19,48547,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 14:00,VEH-1005,20,49151,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-01 15:00,VEH-1006,1,37633,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 17:00,VEH-1006,2,38094,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 13:00,VEH-1006,3,38609,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-02-12 11:00,VEH-1006,4,39182,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 10:00,VEH-1006,5,39883,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 13:00,VEH-1006,6,40584,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 13:00,VEH-1006,7,40987,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 11:00,VEH-1006,8,41749,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 10:00,VEH-1006,9,42266,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 11:00,VEH-1006,10,43129,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 10:00,VEH-1006,11,43969,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 15:00,VEH-1006,12,44405,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 13:00,VEH-1006,13,44947,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 17:00,VEH-1006,14,45456,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-16 12:00,VEH-1006,15,46226,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-07-30 17:00,VEH-1006,16,46750,Engine Noise,Normal Operation,Engine Inspection
+2023-08-13 17:00,VEH-1006,17,47563,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 16:00,VEH-1006,18,48060,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 11:00,VEH-1006,19,48509,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 16:00,VEH-1006,20,49090,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 16:00,VEH-1007,1,29518,Brake Squeal,Normal Operation,Brake Service
+2023-01-15 10:00,VEH-1007,2,30262,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-01-29 11:00,VEH-1007,3,30693,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-12 16:00,VEH-1007,4,31465,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-02-26 15:00,VEH-1007,5,32274,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-03-12 11:00,VEH-1007,6,32801,Engine Noise,Critical System Fault,Engine Inspection
+2023-03-26 13:00,VEH-1007,7,33298,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-04-09 17:00,VEH-1007,8,33769,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 16:00,VEH-1007,9,34262,Brake Squeal,Normal Operation,Brake Service
+2023-05-07 14:00,VEH-1007,10,34898,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 13:00,VEH-1007,11,35745,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 11:00,VEH-1007,12,36371,Engine Noise,Critical System Fault,Engine Inspection
+2023-06-18 11:00,VEH-1007,13,36796,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-02 10:00,VEH-1007,14,37692,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-16 11:00,VEH-1007,15,38566,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-30 13:00,VEH-1007,16,39051,Brake Squeal,Minor Component Wear,Brake Service
+2023-08-13 16:00,VEH-1007,17,39699,Brake Squeal,Minor Component Wear,Brake Service
+2023-08-27 17:00,VEH-1007,18,40208,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-10 16:00,VEH-1007,19,41070,Brake Squeal,Minor Component Wear,Brake Service
+2023-09-24 10:00,VEH-1007,20,41554,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-01 10:00,VEH-1008,1,28017,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-15 14:00,VEH-1008,2,28891,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 17:00,VEH-1008,3,29437,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 16:00,VEH-1008,4,30193,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 17:00,VEH-1008,5,30672,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 13:00,VEH-1008,6,31223,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 13:00,VEH-1008,7,32118,Engine Noise,Normal Operation,Engine Inspection
+2023-04-09 10:00,VEH-1008,8,32814,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 10:00,VEH-1008,9,33596,Engine Noise,Normal Operation,Engine Inspection
+2023-05-07 15:00,VEH-1008,10,34025,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 10:00,VEH-1008,11,34724,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 17:00,VEH-1008,12,35381,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 12:00,VEH-1008,13,35810,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 11:00,VEH-1008,14,36645,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-16 12:00,VEH-1008,15,37080,Engine Noise,Normal Operation,Engine Inspection
+2023-07-30 11:00,VEH-1008,16,37825,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 13:00,VEH-1008,17,38431,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 11:00,VEH-1008,18,39313,Brake Squeal,Minor Component Wear,Brake Service
+2023-09-10 13:00,VEH-1008,19,40009,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-24 10:00,VEH-1008,20,40726,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-01-01 16:00,VEH-1009,1,18422,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 15:00,VEH-1009,2,19300,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 14:00,VEH-1009,3,19804,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-02-12 15:00,VEH-1009,4,20326,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 14:00,VEH-1009,5,20928,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 12:00,VEH-1009,6,21671,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 14:00,VEH-1009,7,22305,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 15:00,VEH-1009,8,23180,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 11:00,VEH-1009,9,23584,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-05-07 17:00,VEH-1009,10,24302,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 11:00,VEH-1009,11,24739,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 13:00,VEH-1009,12,25398,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 14:00,VEH-1009,13,25865,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 15:00,VEH-1009,14,26716,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 11:00,VEH-1009,15,27566,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 13:00,VEH-1009,16,28155,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 14:00,VEH-1009,17,28635,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-27 17:00,VEH-1009,18,29461,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-10 14:00,VEH-1009,19,30174,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-24 10:00,VEH-1009,20,30915,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-01-01 14:00,VEH-1010,1,42651,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 11:00,VEH-1010,2,43531,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 12:00,VEH-1010,3,44066,Brake Squeal,Normal Operation,Brake Service
+2023-02-12 11:00,VEH-1010,4,44921,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-02-26 11:00,VEH-1010,5,45701,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-12 12:00,VEH-1010,6,46240,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 14:00,VEH-1010,7,46949,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 13:00,VEH-1010,8,47716,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 15:00,VEH-1010,9,48220,Engine Noise,Normal Operation,Engine Inspection
+2023-05-07 14:00,VEH-1010,10,48878,Engine Noise,Normal Operation,Engine Inspection
+2023-05-21 17:00,VEH-1010,11,49406,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 10:00,VEH-1010,12,49853,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 16:00,VEH-1010,13,50677,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-02 14:00,VEH-1010,14,51099,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-16 10:00,VEH-1010,15,51669,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-30 12:00,VEH-1010,16,52395,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-08-13 14:00,VEH-1010,17,52877,Engine Noise,Minor Component Wear,Engine Inspection
+2023-08-27 17:00,VEH-1010,18,53559,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-10 16:00,VEH-1010,19,54246,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-09-24 10:00,VEH-1010,20,54703,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-01 12:00,VEH-1011,1,18144,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 10:00,VEH-1011,2,18971,Engine Noise,Minor Component Wear,Engine Inspection
+2023-01-29 15:00,VEH-1011,3,19669,Engine Noise,Minor Component Wear,Engine Inspection
+2023-02-12 12:00,VEH-1011,4,20289,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-02-26 12:00,VEH-1011,5,20710,Brake Squeal,Normal Operation,Brake Service
+2023-03-12 14:00,VEH-1011,6,21296,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 10:00,VEH-1011,7,22156,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-04-09 15:00,VEH-1011,8,22663,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-04-23 13:00,VEH-1011,9,23404,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-07 11:00,VEH-1011,10,23985,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-05-21 16:00,VEH-1011,11,24883,Brake Squeal,Minor Component Wear,Brake Service
+2023-06-04 12:00,VEH-1011,12,25756,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-18 13:00,VEH-1011,13,26598,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-02 12:00,VEH-1011,14,27497,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-16 12:00,VEH-1011,15,28348,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-30 16:00,VEH-1011,16,28760,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 12:00,VEH-1011,17,29537,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 15:00,VEH-1011,18,30337,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 16:00,VEH-1011,19,31147,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 13:00,VEH-1011,20,31683,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 11:00,VEH-1012,1,20811,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 10:00,VEH-1012,2,21650,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-01-29 17:00,VEH-1012,3,22163,Engine Noise,Normal Operation,Engine Inspection
+2023-02-12 13:00,VEH-1012,4,22981,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-02-26 17:00,VEH-1012,5,23560,Engine Noise,Minor Component Wear,Engine Inspection
+2023-03-12 14:00,VEH-1012,6,24380,Engine Noise,Normal Operation,Engine Inspection
+2023-03-26 13:00,VEH-1012,7,24894,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 10:00,VEH-1012,8,25631,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-23 13:00,VEH-1012,9,26235,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 15:00,VEH-1012,10,26777,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-21 11:00,VEH-1012,11,27672,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 14:00,VEH-1012,12,28251,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 16:00,VEH-1012,13,28998,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-02 15:00,VEH-1012,14,29878,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 10:00,VEH-1012,15,30337,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-30 14:00,VEH-1012,16,30828,Smooth Ride,Critical System Fault,Routine Inspection
+2023-08-13 14:00,VEH-1012,17,31247,Smooth Ride,Critical System Fault,Routine Inspection
+2023-08-27 11:00,VEH-1012,18,31952,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-10 16:00,VEH-1012,19,32528,Engine Noise,Critical System Fault,Engine Inspection
+2023-09-24 15:00,VEH-1012,20,33151,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-01-01 11:00,VEH-1013,1,35461,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 13:00,VEH-1013,2,35991,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 10:00,VEH-1013,3,36753,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 16:00,VEH-1013,4,37153,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-26 13:00,VEH-1013,5,37739,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-03-12 16:00,VEH-1013,6,38174,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-03-26 15:00,VEH-1013,7,38893,Engine Noise,Critical System Fault,Engine Inspection
+2023-04-09 15:00,VEH-1013,8,39632,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 11:00,VEH-1013,9,40400,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 14:00,VEH-1013,10,41059,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-05-21 14:00,VEH-1013,11,41800,Brake Squeal,Critical System Fault,Brake Service
+2023-06-04 16:00,VEH-1013,12,42367,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-18 16:00,VEH-1013,13,43123,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-02 14:00,VEH-1013,14,43806,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-07-16 12:00,VEH-1013,15,44304,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-07-30 16:00,VEH-1013,16,45044,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-13 16:00,VEH-1013,17,45790,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-08-27 12:00,VEH-1013,18,46505,Smooth Ride,Critical System Fault,Routine Inspection
+2023-09-10 14:00,VEH-1013,19,47112,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 10:00,VEH-1013,20,47667,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-01-01 13:00,VEH-1014,1,25021,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 15:00,VEH-1014,2,25659,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-01-29 17:00,VEH-1014,3,26285,Engine Noise,Normal Operation,Engine Inspection
+2023-02-12 13:00,VEH-1014,4,26946,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 17:00,VEH-1014,5,27752,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 12:00,VEH-1014,6,28489,Brake Squeal,Minor Component Wear,Brake Service
+2023-03-26 11:00,VEH-1014,7,29034,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-04-09 15:00,VEH-1014,8,29481,Brake Squeal,Minor Component Wear,Brake Service
+2023-04-23 13:00,VEH-1014,9,30225,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-05-07 14:00,VEH-1014,10,30740,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 13:00,VEH-1014,11,31215,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-06-04 10:00,VEH-1014,12,31638,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 13:00,VEH-1014,13,32281,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 11:00,VEH-1014,14,32914,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 16:00,VEH-1014,15,33767,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 13:00,VEH-1014,16,34534,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 16:00,VEH-1014,17,35187,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-27 16:00,VEH-1014,18,35711,Brake Squeal,Minor Component Wear,Brake Service
+2023-09-10 12:00,VEH-1014,19,36446,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-24 10:00,VEH-1014,20,37303,Engine Noise,Normal Operation,Engine Inspection
+2023-01-01 11:00,VEH-1015,1,40405,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 16:00,VEH-1015,2,40917,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 12:00,VEH-1015,3,41728,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 17:00,VEH-1015,4,42153,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 13:00,VEH-1015,5,43022,Brake Squeal,Normal Operation,Brake Service
+2023-03-12 11:00,VEH-1015,6,43655,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 12:00,VEH-1015,7,44465,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 17:00,VEH-1015,8,45206,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-04-23 15:00,VEH-1015,9,46092,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 17:00,VEH-1015,10,46805,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-05-21 16:00,VEH-1015,11,47630,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 17:00,VEH-1015,12,48489,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-06-18 12:00,VEH-1015,13,49269,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 17:00,VEH-1015,14,49899,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 14:00,VEH-1015,15,50683,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 13:00,VEH-1015,16,51513,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 14:00,VEH-1015,17,52305,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 17:00,VEH-1015,18,53025,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-09-10 13:00,VEH-1015,19,53565,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 17:00,VEH-1015,20,54004,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 14:00,VEH-1016,1,38901,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 14:00,VEH-1016,2,39472,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 15:00,VEH-1016,3,40329,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 11:00,VEH-1016,4,40799,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 12:00,VEH-1016,5,41317,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 16:00,VEH-1016,6,42072,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 12:00,VEH-1016,7,42833,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 13:00,VEH-1016,8,43265,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-04-23 16:00,VEH-1016,9,43873,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 15:00,VEH-1016,10,44550,Brake Squeal,Minor Component Wear,Brake Service
+2023-05-21 17:00,VEH-1016,11,45162,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-04 10:00,VEH-1016,12,45667,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-18 16:00,VEH-1016,13,46266,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-02 10:00,VEH-1016,14,47104,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-16 16:00,VEH-1016,15,47748,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-30 10:00,VEH-1016,16,48630,Brake Squeal,Minor Component Wear,Brake Service
+2023-08-13 15:00,VEH-1016,17,49182,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-08-27 16:00,VEH-1016,18,50018,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-10 16:00,VEH-1016,19,50693,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-24 13:00,VEH-1016,20,51342,Engine Noise,Minor Component Wear,Engine Inspection
+2023-01-01 14:00,VEH-1017,1,22813,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 17:00,VEH-1017,2,23227,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 16:00,VEH-1017,3,23799,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 16:00,VEH-1017,4,24569,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-02-26 12:00,VEH-1017,5,25399,Brake Squeal,Minor Component Wear,Brake Service
+2023-03-12 17:00,VEH-1017,6,26269,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-26 12:00,VEH-1017,7,26987,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-04-09 10:00,VEH-1017,8,27851,Engine Noise,Minor Component Wear,Engine Inspection
+2023-04-23 16:00,VEH-1017,9,28554,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 10:00,VEH-1017,10,28996,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 16:00,VEH-1017,11,29465,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 17:00,VEH-1017,12,29958,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-06-18 10:00,VEH-1017,13,30491,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 16:00,VEH-1017,14,31058,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 13:00,VEH-1017,15,31690,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 15:00,VEH-1017,16,32262,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 16:00,VEH-1017,17,32804,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-27 16:00,VEH-1017,18,33333,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-10 11:00,VEH-1017,19,33973,Engine Noise,Critical System Fault,Engine Inspection
+2023-09-24 10:00,VEH-1017,20,34756,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-01-01 10:00,VEH-1018,1,33562,Engine Noise,Normal Operation,Engine Inspection
+2023-01-15 15:00,VEH-1018,2,34076,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 11:00,VEH-1018,3,34875,Brake Squeal,Normal Operation,Brake Service
+2023-02-12 10:00,VEH-1018,4,35661,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 10:00,VEH-1018,5,36547,Engine Noise,Normal Operation,Engine Inspection
+2023-03-12 13:00,VEH-1018,6,37049,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 10:00,VEH-1018,7,37767,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 12:00,VEH-1018,8,38289,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 12:00,VEH-1018,9,38931,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 11:00,VEH-1018,10,39619,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 13:00,VEH-1018,11,40257,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 14:00,VEH-1018,12,41049,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 15:00,VEH-1018,13,41534,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 11:00,VEH-1018,14,42332,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-16 12:00,VEH-1018,15,43225,Engine Noise,Critical System Fault,Engine Inspection
+2023-07-30 14:00,VEH-1018,16,43680,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-08-13 10:00,VEH-1018,17,44555,Engine Noise,Minor Component Wear,Engine Inspection
+2023-08-27 14:00,VEH-1018,18,45249,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-10 16:00,VEH-1018,19,45852,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-09-24 13:00,VEH-1018,20,46290,Engine Noise,Critical System Fault,Engine Inspection
+2023-01-01 13:00,VEH-1019,1,34853,Brake Squeal,Normal Operation,Brake Service
+2023-01-15 14:00,VEH-1019,2,35688,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 11:00,VEH-1019,3,36495,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 10:00,VEH-1019,4,37072,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 16:00,VEH-1019,5,37810,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 15:00,VEH-1019,6,38245,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 15:00,VEH-1019,7,38651,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 16:00,VEH-1019,8,39472,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 17:00,VEH-1019,9,39926,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-07 16:00,VEH-1019,10,40817,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-21 15:00,VEH-1019,11,41542,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-04 17:00,VEH-1019,12,42304,Brake Squeal,Minor Component Wear,Brake Service
+2023-06-18 12:00,VEH-1019,13,42926,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-02 12:00,VEH-1019,14,43701,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-16 14:00,VEH-1019,15,44416,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-07-30 17:00,VEH-1019,16,45054,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-13 16:00,VEH-1019,17,45876,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-08-27 14:00,VEH-1019,18,46441,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 13:00,VEH-1019,19,47266,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 11:00,VEH-1019,20,47808,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-01 17:00,VEH-1020,1,44413,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 17:00,VEH-1020,2,45104,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 16:00,VEH-1020,3,45676,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 10:00,VEH-1020,4,46329,Engine Noise,Normal Operation,Engine Inspection
+2023-02-26 15:00,VEH-1020,5,46822,Engine Noise,Minor Component Wear,Engine Inspection
+2023-03-12 17:00,VEH-1020,6,47330,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-26 15:00,VEH-1020,7,48138,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-09 14:00,VEH-1020,8,48712,Brake Squeal,Minor Component Wear,Brake Service
+2023-04-23 14:00,VEH-1020,9,49562,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 14:00,VEH-1020,10,50246,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 10:00,VEH-1020,11,50910,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 13:00,VEH-1020,12,51353,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 13:00,VEH-1020,13,52121,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 16:00,VEH-1020,14,52771,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-16 13:00,VEH-1020,15,53524,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-30 17:00,VEH-1020,16,54254,Engine Noise,Critical System Fault,Engine Inspection
+2023-08-13 17:00,VEH-1020,17,54883,Engine Noise,Minor Component Wear,Engine Inspection
+2023-08-27 10:00,VEH-1020,18,55330,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-10 14:00,VEH-1020,19,55843,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-09-24 16:00,VEH-1020,20,56597,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-01-01 14:00,VEH-1021,1,23711,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 15:00,VEH-1021,2,24353,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 15:00,VEH-1021,3,24970,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 15:00,VEH-1021,4,25550,Brake Squeal,Normal Operation,Brake Service
+2023-02-26 17:00,VEH-1021,5,26088,Engine Noise,Minor Component Wear,Engine Inspection
+2023-03-12 14:00,VEH-1021,6,26616,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-03-26 13:00,VEH-1021,7,27077,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 13:00,VEH-1021,8,27638,Brake Squeal,Minor Component Wear,Brake Service
+2023-04-23 11:00,VEH-1021,9,28418,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-05-07 12:00,VEH-1021,10,28916,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-21 13:00,VEH-1021,11,29694,Brake Squeal,Minor Component Wear,Brake Service
+2023-06-04 17:00,VEH-1021,12,30235,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 14:00,VEH-1021,13,30686,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 13:00,VEH-1021,14,31237,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-16 13:00,VEH-1021,15,31821,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-30 12:00,VEH-1021,16,32375,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-13 10:00,VEH-1021,17,33137,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-27 12:00,VEH-1021,18,33677,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-10 10:00,VEH-1021,19,34575,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-09-24 10:00,VEH-1021,20,35258,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-01-01 12:00,VEH-1022,1,25298,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 17:00,VEH-1022,2,25750,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 10:00,VEH-1022,3,26443,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-12 14:00,VEH-1022,4,27083,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-26 17:00,VEH-1022,5,27708,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-03-12 15:00,VEH-1022,6,28202,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-26 10:00,VEH-1022,7,28731,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-09 17:00,VEH-1022,8,29189,Engine Noise,Critical System Fault,Engine Inspection
+2023-04-23 11:00,VEH-1022,9,29794,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 17:00,VEH-1022,10,30231,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 10:00,VEH-1022,11,30708,Engine Noise,Normal Operation,Engine Inspection
+2023-06-04 12:00,VEH-1022,12,31523,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 14:00,VEH-1022,13,31966,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 13:00,VEH-1022,14,32426,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 16:00,VEH-1022,15,33136,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-07-30 13:00,VEH-1022,16,33933,Engine Noise,Minor Component Wear,Engine Inspection
+2023-08-13 16:00,VEH-1022,17,34563,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-27 17:00,VEH-1022,18,35115,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-10 16:00,VEH-1022,19,35671,Brake Squeal,Minor Component Wear,Brake Service
+2023-09-24 10:00,VEH-1022,20,36383,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-01-01 11:00,VEH-1023,1,40136,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 13:00,VEH-1023,2,40856,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 13:00,VEH-1023,3,41391,Engine Noise,Normal Operation,Engine Inspection
+2023-02-12 11:00,VEH-1023,4,41871,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 13:00,VEH-1023,5,42359,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 11:00,VEH-1023,6,42839,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 10:00,VEH-1023,7,43448,Brake Squeal,Minor Component Wear,Brake Service
+2023-04-09 17:00,VEH-1023,8,44200,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-04-23 17:00,VEH-1023,9,44749,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-07 10:00,VEH-1023,10,45267,Smooth Ride,Critical System Fault,Routine Inspection
+2023-05-21 14:00,VEH-1023,11,46028,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 14:00,VEH-1023,12,46787,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 17:00,VEH-1023,13,47223,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 13:00,VEH-1023,14,48096,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-16 14:00,VEH-1023,15,48899,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-30 13:00,VEH-1023,16,49516,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-13 11:00,VEH-1023,17,50194,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-27 13:00,VEH-1023,18,50925,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-09-10 12:00,VEH-1023,19,51790,Engine Noise,Minor Component Wear,Engine Inspection
+2023-09-24 14:00,VEH-1023,20,52613,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-01-01 11:00,VEH-1024,1,20090,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-15 12:00,VEH-1024,2,20895,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-29 14:00,VEH-1024,3,21599,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 14:00,VEH-1024,4,22223,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 11:00,VEH-1024,5,22862,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 14:00,VEH-1024,6,23620,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 16:00,VEH-1024,7,24502,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-04-09 14:00,VEH-1024,8,25158,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 17:00,VEH-1024,9,25782,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 11:00,VEH-1024,10,26488,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-21 10:00,VEH-1024,11,27343,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-04 16:00,VEH-1024,12,28119,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-06-18 15:00,VEH-1024,13,28828,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-02 14:00,VEH-1024,14,29241,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 11:00,VEH-1024,15,29758,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-30 10:00,VEH-1024,16,30549,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-08-13 14:00,VEH-1024,17,31244,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-27 10:00,VEH-1024,18,32034,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-10 12:00,VEH-1024,19,32674,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 17:00,VEH-1024,20,33543,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 12:00,VEH-1025,1,24813,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 16:00,VEH-1025,2,25538,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 17:00,VEH-1025,3,26434,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 11:00,VEH-1025,4,27074,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 15:00,VEH-1025,5,27683,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 15:00,VEH-1025,6,28247,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 11:00,VEH-1025,7,29086,Brake Squeal,Minor Component Wear,Brake Service
+2023-04-09 12:00,VEH-1025,8,29654,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-23 16:00,VEH-1025,9,30409,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-05-07 17:00,VEH-1025,10,30956,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 16:00,VEH-1025,11,31772,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 10:00,VEH-1025,12,32404,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 11:00,VEH-1025,13,32965,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 14:00,VEH-1025,14,33530,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 11:00,VEH-1025,15,34426,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 16:00,VEH-1025,16,35268,Engine Noise,Normal Operation,Engine Inspection
+2023-08-13 10:00,VEH-1025,17,36004,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 17:00,VEH-1025,18,36615,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 10:00,VEH-1025,19,37111,Brake Squeal,Normal Operation,Brake Service
+2023-09-24 15:00,VEH-1025,20,37829,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-01-01 17:00,VEH-1026,1,40507,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 17:00,VEH-1026,2,41296,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-29 10:00,VEH-1026,3,41800,Engine Noise,Normal Operation,Engine Inspection
+2023-02-12 14:00,VEH-1026,4,42481,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 12:00,VEH-1026,5,43355,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 14:00,VEH-1026,6,43979,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 17:00,VEH-1026,7,44441,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-04-09 10:00,VEH-1026,8,45339,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 13:00,VEH-1026,9,46102,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 12:00,VEH-1026,10,46661,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-05-21 10:00,VEH-1026,11,47343,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 16:00,VEH-1026,12,47790,Brake Squeal,Normal Operation,Brake Service
+2023-06-18 13:00,VEH-1026,13,48620,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-07-02 11:00,VEH-1026,14,49256,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-16 11:00,VEH-1026,15,49987,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-30 12:00,VEH-1026,16,50642,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-13 14:00,VEH-1026,17,51302,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-08-27 14:00,VEH-1026,18,51914,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 17:00,VEH-1026,19,52555,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 13:00,VEH-1026,20,53188,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 12:00,VEH-1027,1,33659,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 13:00,VEH-1027,2,34530,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 12:00,VEH-1027,3,35372,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-02-12 11:00,VEH-1027,4,35913,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 16:00,VEH-1027,5,36487,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-03-12 14:00,VEH-1027,6,37307,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-03-26 10:00,VEH-1027,7,37851,Brake Squeal,Normal Operation,Brake Service
+2023-04-09 14:00,VEH-1027,8,38679,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-04-23 17:00,VEH-1027,9,39522,Engine Noise,Normal Operation,Engine Inspection
+2023-05-07 12:00,VEH-1027,10,40150,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 17:00,VEH-1027,11,40726,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-06-04 15:00,VEH-1027,12,41408,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-06-18 16:00,VEH-1027,13,42041,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-02 15:00,VEH-1027,14,42886,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-16 13:00,VEH-1027,15,43643,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 13:00,VEH-1027,16,44335,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 16:00,VEH-1027,17,44854,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 16:00,VEH-1027,18,45276,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-09-10 15:00,VEH-1027,19,46057,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 17:00,VEH-1027,20,46818,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 16:00,VEH-1028,1,45528,Engine Noise,Normal Operation,Engine Inspection
+2023-01-15 12:00,VEH-1028,2,46181,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 10:00,VEH-1028,3,46645,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-02-12 15:00,VEH-1028,4,47490,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-02-26 11:00,VEH-1028,5,48337,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-03-12 17:00,VEH-1028,6,48788,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-03-26 17:00,VEH-1028,7,49195,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-04-09 12:00,VEH-1028,8,49804,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-23 12:00,VEH-1028,9,50242,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 17:00,VEH-1028,10,51042,Brake Squeal,Minor Component Wear,Brake Service
+2023-05-21 14:00,VEH-1028,11,51615,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-04 16:00,VEH-1028,12,52347,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-06-18 11:00,VEH-1028,13,53183,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-07-02 15:00,VEH-1028,14,54019,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 16:00,VEH-1028,15,54907,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 15:00,VEH-1028,16,55627,Engine Noise,Normal Operation,Engine Inspection
+2023-08-13 17:00,VEH-1028,17,56473,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 10:00,VEH-1028,18,57189,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 11:00,VEH-1028,19,57709,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 14:00,VEH-1028,20,58225,Engine Noise,Minor Component Wear,Engine Inspection
+2023-01-01 11:00,VEH-1029,1,40092,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-15 11:00,VEH-1029,2,40881,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-29 11:00,VEH-1029,3,41508,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-02-12 12:00,VEH-1029,4,42263,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-02-26 14:00,VEH-1029,5,43125,Engine Noise,Minor Component Wear,Engine Inspection
+2023-03-12 10:00,VEH-1029,6,43548,Brake Squeal,Minor Component Wear,Brake Service
+2023-03-26 15:00,VEH-1029,7,44355,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-09 10:00,VEH-1029,8,44905,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-04-23 15:00,VEH-1029,9,45496,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-05-07 16:00,VEH-1029,10,45970,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 13:00,VEH-1029,11,46641,Engine Noise,Normal Operation,Engine Inspection
+2023-06-04 16:00,VEH-1029,12,47330,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 12:00,VEH-1029,13,47817,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 12:00,VEH-1029,14,48257,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-16 16:00,VEH-1029,15,48974,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-30 13:00,VEH-1029,16,49628,Brake Squeal,Critical System Fault,Brake Service
+2023-08-13 12:00,VEH-1029,17,50146,Brake Squeal,Critical System Fault,Brake Service
+2023-08-27 17:00,VEH-1029,18,50872,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-10 14:00,VEH-1029,19,51507,Engine Noise,Critical System Fault,Engine Inspection
+2023-09-24 14:00,VEH-1029,20,52248,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-01-01 17:00,VEH-1030,1,16168,Engine Noise,Normal Operation,Engine Inspection
+2023-01-15 14:00,VEH-1030,2,16914,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 12:00,VEH-1030,3,17351,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 17:00,VEH-1030,4,18234,Engine Noise,Normal Operation,Engine Inspection
+2023-02-26 15:00,VEH-1030,5,18934,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 14:00,VEH-1030,6,19661,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 16:00,VEH-1030,7,20414,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-04-09 14:00,VEH-1030,8,21047,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 14:00,VEH-1030,9,21548,Engine Noise,Normal Operation,Engine Inspection
+2023-05-07 16:00,VEH-1030,10,22384,Engine Noise,Normal Operation,Engine Inspection
+2023-05-21 17:00,VEH-1030,11,22838,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-06-04 13:00,VEH-1030,12,23433,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 15:00,VEH-1030,13,24127,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-02 14:00,VEH-1030,14,24885,Brake Squeal,Critical System Fault,Brake Service
+2023-07-16 14:00,VEH-1030,15,25296,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 16:00,VEH-1030,16,25836,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 10:00,VEH-1030,17,26525,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 10:00,VEH-1030,18,27391,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 17:00,VEH-1030,19,28217,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-09-24 14:00,VEH-1030,20,29014,Brake Squeal,Critical System Fault,Brake Service
+2023-01-01 13:00,VEH-1031,1,41887,Engine Noise,Normal Operation,Engine Inspection
+2023-01-15 15:00,VEH-1031,2,42399,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 13:00,VEH-1031,3,43116,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 14:00,VEH-1031,4,43863,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 12:00,VEH-1031,5,44584,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 11:00,VEH-1031,6,45446,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-03-26 10:00,VEH-1031,7,46004,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-09 17:00,VEH-1031,8,46421,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-04-23 15:00,VEH-1031,9,47195,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 12:00,VEH-1031,10,47641,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-05-21 14:00,VEH-1031,11,48208,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-06-04 16:00,VEH-1031,12,48697,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-18 13:00,VEH-1031,13,49164,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-02 15:00,VEH-1031,14,49835,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-16 14:00,VEH-1031,15,50660,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-30 12:00,VEH-1031,16,51191,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-08-13 17:00,VEH-1031,17,52086,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 14:00,VEH-1031,18,52868,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 15:00,VEH-1031,19,53679,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-09-24 11:00,VEH-1031,20,54318,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-01-01 12:00,VEH-1032,1,18253,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-15 13:00,VEH-1032,2,19093,Engine Noise,Normal Operation,Engine Inspection
+2023-01-29 16:00,VEH-1032,3,19988,Engine Noise,Normal Operation,Engine Inspection
+2023-02-12 15:00,VEH-1032,4,20434,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 16:00,VEH-1032,5,20841,Brake Squeal,Normal Operation,Brake Service
+2023-03-12 14:00,VEH-1032,6,21515,Engine Noise,Normal Operation,Engine Inspection
+2023-03-26 11:00,VEH-1032,7,22147,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 15:00,VEH-1032,8,22891,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 14:00,VEH-1032,9,23590,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 16:00,VEH-1032,10,24411,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 15:00,VEH-1032,11,24866,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 13:00,VEH-1032,12,25507,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 10:00,VEH-1032,13,26224,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 15:00,VEH-1032,14,27092,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 13:00,VEH-1032,15,27823,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 11:00,VEH-1032,16,28548,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 17:00,VEH-1032,17,29413,Brake Squeal,Minor Component Wear,Brake Service
+2023-08-27 14:00,VEH-1032,18,30145,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 16:00,VEH-1032,19,30604,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 12:00,VEH-1032,20,31027,Engine Noise,Critical System Fault,Engine Inspection
+2023-01-01 14:00,VEH-1033,1,16871,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 11:00,VEH-1033,2,17320,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 13:00,VEH-1033,3,18174,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 12:00,VEH-1033,4,18772,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 17:00,VEH-1033,5,19361,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 16:00,VEH-1033,6,20061,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 12:00,VEH-1033,7,20914,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 16:00,VEH-1033,8,21649,Engine Noise,Normal Operation,Engine Inspection
+2023-04-23 11:00,VEH-1033,9,22475,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 17:00,VEH-1033,10,23190,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 16:00,VEH-1033,11,24070,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 14:00,VEH-1033,12,24486,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-18 15:00,VEH-1033,13,24997,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-02 17:00,VEH-1033,14,25624,Brake Squeal,Critical System Fault,Brake Service
+2023-07-16 13:00,VEH-1033,15,26461,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-30 15:00,VEH-1033,16,26911,Engine Noise,Critical System Fault,Engine Inspection
+2023-08-13 15:00,VEH-1033,17,27589,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-08-27 15:00,VEH-1033,18,28020,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-10 16:00,VEH-1033,19,28561,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-09-24 13:00,VEH-1033,20,29456,Engine Noise,Critical System Fault,Engine Inspection
+2023-01-01 17:00,VEH-1034,1,19448,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 13:00,VEH-1034,2,20176,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-01-29 10:00,VEH-1034,3,20601,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-02-12 15:00,VEH-1034,4,21125,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 12:00,VEH-1034,5,21927,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 13:00,VEH-1034,6,22362,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 13:00,VEH-1034,7,23062,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 13:00,VEH-1034,8,23878,Performance Drop,Critical System Fault,Diagnostic Scan & Service
+2023-04-23 13:00,VEH-1034,9,24446,Engine Noise,Critical System Fault,Engine Inspection
+2023-05-07 12:00,VEH-1034,10,25249,Engine Noise,Critical System Fault,Engine Inspection
+2023-05-21 10:00,VEH-1034,11,25790,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 12:00,VEH-1034,12,26256,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-06-18 14:00,VEH-1034,13,27064,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-02 12:00,VEH-1034,14,27520,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 10:00,VEH-1034,15,27987,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-30 10:00,VEH-1034,16,28570,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-08-13 13:00,VEH-1034,17,29271,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 15:00,VEH-1034,18,29679,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 12:00,VEH-1034,19,30214,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-09-24 10:00,VEH-1034,20,30678,Engine Noise,Minor Component Wear,Engine Inspection
+2023-01-01 16:00,VEH-1035,1,39973,Brake Squeal,Normal Operation,Brake Service
+2023-01-15 11:00,VEH-1035,2,40754,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 11:00,VEH-1035,3,41397,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 17:00,VEH-1035,4,42195,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 15:00,VEH-1035,5,42857,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-12 11:00,VEH-1035,6,43488,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-03-26 13:00,VEH-1035,7,44372,Brake Squeal,Minor Component Wear,Brake Service
+2023-04-09 10:00,VEH-1035,8,45144,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-23 14:00,VEH-1035,9,45778,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-05-07 10:00,VEH-1035,10,46209,Engine Noise,Minor Component Wear,Engine Inspection
+2023-05-21 17:00,VEH-1035,11,47042,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-04 16:00,VEH-1035,12,47660,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-06-18 11:00,VEH-1035,13,48311,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-02 17:00,VEH-1035,14,48748,Brake Squeal,Minor Component Wear,Brake Service
+2023-07-16 11:00,VEH-1035,15,49312,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-30 12:00,VEH-1035,16,49745,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 12:00,VEH-1035,17,50285,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-27 15:00,VEH-1035,18,50880,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 14:00,VEH-1035,19,51512,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 16:00,VEH-1035,20,51962,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 11:00,VEH-1036,1,41824,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 13:00,VEH-1036,2,42444,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 17:00,VEH-1036,3,43298,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 13:00,VEH-1036,4,43909,Engine Noise,Normal Operation,Engine Inspection
+2023-02-26 15:00,VEH-1036,5,44732,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 17:00,VEH-1036,6,45336,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-03-26 16:00,VEH-1036,7,46109,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 11:00,VEH-1036,8,46669,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 16:00,VEH-1036,9,47229,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-07 14:00,VEH-1036,10,47820,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 12:00,VEH-1036,11,48571,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-04 17:00,VEH-1036,12,49005,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-18 11:00,VEH-1036,13,49830,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-02 11:00,VEH-1036,14,50277,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-07-16 16:00,VEH-1036,15,50726,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-07-30 15:00,VEH-1036,16,51541,Warning Light,Critical System Fault,Diagnostic Scan & Service
+2023-08-13 12:00,VEH-1036,17,52225,Engine Noise,Minor Component Wear,Engine Inspection
+2023-08-27 10:00,VEH-1036,18,52925,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-10 15:00,VEH-1036,19,53668,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 11:00,VEH-1036,20,54278,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-01 16:00,VEH-1037,1,27430,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-01-15 10:00,VEH-1037,2,28325,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 14:00,VEH-1037,3,29032,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-02-12 14:00,VEH-1037,4,29612,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 11:00,VEH-1037,5,30307,Brake Squeal,Normal Operation,Brake Service
+2023-03-12 13:00,VEH-1037,6,30786,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 17:00,VEH-1037,7,31300,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-04-09 11:00,VEH-1037,8,31879,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 15:00,VEH-1037,9,32337,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-05-07 14:00,VEH-1037,10,33030,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-05-21 13:00,VEH-1037,11,33843,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-04 16:00,VEH-1037,12,34675,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-18 10:00,VEH-1037,13,35386,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-07-02 14:00,VEH-1037,14,35800,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-16 12:00,VEH-1037,15,36339,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-07-30 14:00,VEH-1037,16,37210,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 15:00,VEH-1037,17,37789,Warning Light,Normal Operation,Diagnostic Scan & Service
+2023-08-27 10:00,VEH-1037,18,38281,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 12:00,VEH-1037,19,38970,Engine Noise,Normal Operation,Engine Inspection
+2023-09-24 16:00,VEH-1037,20,39405,Engine Noise,Normal Operation,Engine Inspection
+2023-01-01 10:00,VEH-1038,1,20094,Engine Noise,Normal Operation,Engine Inspection
+2023-01-15 13:00,VEH-1038,2,20686,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-29 16:00,VEH-1038,3,21318,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 15:00,VEH-1038,4,21798,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 15:00,VEH-1038,5,22357,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 15:00,VEH-1038,6,23154,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 11:00,VEH-1038,7,24006,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 10:00,VEH-1038,8,24485,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 12:00,VEH-1038,9,25271,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 10:00,VEH-1038,10,26016,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 11:00,VEH-1038,11,26555,Engine Noise,Minor Component Wear,Engine Inspection
+2023-06-04 17:00,VEH-1038,12,27293,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-06-18 16:00,VEH-1038,13,27941,Engine Noise,Minor Component Wear,Engine Inspection
+2023-07-02 17:00,VEH-1038,14,28553,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-16 14:00,VEH-1038,15,29063,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-07-30 11:00,VEH-1038,16,29639,Brake Squeal,Minor Component Wear,Brake Service
+2023-08-13 16:00,VEH-1038,17,30095,Performance Drop,Minor Component Wear,Diagnostic Scan & Service
+2023-08-27 14:00,VEH-1038,18,30842,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 17:00,VEH-1038,19,31511,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 14:00,VEH-1038,20,31934,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-01-01 16:00,VEH-1039,1,22931,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 10:00,VEH-1039,2,23334,Engine Noise,Minor Component Wear,Engine Inspection
+2023-01-29 13:00,VEH-1039,3,23888,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-12 13:00,VEH-1039,4,24680,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 12:00,VEH-1039,5,25471,Engine Noise,Normal Operation,Engine Inspection
+2023-03-12 14:00,VEH-1039,6,26019,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 15:00,VEH-1039,7,26480,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 10:00,VEH-1039,8,27134,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-23 16:00,VEH-1039,9,27623,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 12:00,VEH-1039,10,28217,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 13:00,VEH-1039,11,28873,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 15:00,VEH-1039,12,29309,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 16:00,VEH-1039,13,30150,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-02 10:00,VEH-1039,14,30773,Engine Noise,Normal Operation,Engine Inspection
+2023-07-16 10:00,VEH-1039,15,31408,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 11:00,VEH-1039,16,32249,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-08-13 15:00,VEH-1039,17,32943,Engine Noise,Normal Operation,Engine Inspection
+2023-08-27 16:00,VEH-1039,18,33636,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-09-10 16:00,VEH-1039,19,34399,Warning Light,Minor Component Wear,Diagnostic Scan & Service
+2023-09-24 16:00,VEH-1039,20,34947,Brake Squeal,Minor Component Wear,Brake Service
+2023-01-01 16:00,VEH-1040,1,19184,Smooth Ride,Normal Operation,Routine Inspection
+2023-01-15 15:00,VEH-1040,2,19671,Engine Noise,Normal Operation,Engine Inspection
+2023-01-29 17:00,VEH-1040,3,20496,Engine Noise,Normal Operation,Engine Inspection
+2023-02-12 15:00,VEH-1040,4,20941,Smooth Ride,Normal Operation,Routine Inspection
+2023-02-26 16:00,VEH-1040,5,21773,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-12 11:00,VEH-1040,6,22297,Smooth Ride,Normal Operation,Routine Inspection
+2023-03-26 16:00,VEH-1040,7,22998,Smooth Ride,Normal Operation,Routine Inspection
+2023-04-09 16:00,VEH-1040,8,23666,Smooth Ride,Minor Component Wear,Routine Inspection
+2023-04-23 11:00,VEH-1040,9,24268,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-07 14:00,VEH-1040,10,25049,Smooth Ride,Normal Operation,Routine Inspection
+2023-05-21 15:00,VEH-1040,11,25562,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-04 15:00,VEH-1040,12,26360,Smooth Ride,Normal Operation,Routine Inspection
+2023-06-18 12:00,VEH-1040,13,26799,Performance Drop,Normal Operation,Diagnostic Scan & Service
+2023-07-02 11:00,VEH-1040,14,27470,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-16 13:00,VEH-1040,15,28333,Smooth Ride,Normal Operation,Routine Inspection
+2023-07-30 15:00,VEH-1040,16,28912,Smooth Ride,Normal Operation,Routine Inspection
+2023-08-13 12:00,VEH-1040,17,29432,Engine Noise,Critical System Fault,Engine Inspection
+2023-08-27 11:00,VEH-1040,18,29906,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-10 14:00,VEH-1040,19,30407,Smooth Ride,Normal Operation,Routine Inspection
+2023-09-24 12:00,VEH-1040,20,31115,Smooth Ride,Normal Operation,Routine Inspection

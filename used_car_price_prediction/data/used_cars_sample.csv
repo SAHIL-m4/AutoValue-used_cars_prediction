@@ -1,0 +1,1501 @@
+brand,model,model_year,milage,fuel_type,engine,transmission,accident,clean_title,price
+Lexus,RX 350,2018,50261,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,19400
+Subaru,Crosstrek,2016,80363,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,9800
+BMW,5 Series,2015,73334,Gasoline,5.0L V8,Manual,None reported,Yes,24500
+Honda,HR-V,2013,134905,Gasoline,1.5L I4 Turbo,Dual-Clutch,At least 1 accident or damage reported,Yes,5700
+Tesla,Model Y,2017,84069,Electric,Dual Electric Motor,Automatic,None reported,Yes,23000
+Toyota,Camry,2013,90677,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,8100
+BMW,M3,2020,52150,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,41900
+Nissan,Sentra,2018,66674,Gasoline,5.0L V8,Automatic,None reported,Yes,11300
+Lexus,IS 300,2015,122768,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,14600
+Hyundai,Tucson,2022,15112,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20400
+Jeep,Wrangler,2021,43199,Gasoline,5.0L V8,Automatic,None reported,Yes,28600
+Chevrolet,Malibu,2022,45717,Gasoline,2.5L I4,Automatic,None reported,Yes,21600
+Ford,Mustang,2013,83851,Gasoline,2.5L I4,CVT,None reported,Yes,10000
+Honda,Civic,2016,78712,Gasoline,3.0L V6 Turbo,CVT,At least 1 accident or damage reported,Yes,7600
+Honda,CR-V,2023,11963,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,18700
+Tesla,Model Y,2016,89231,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,14700
+Subaru,Impreza,2019,34586,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,14400
+Honda,Pilot,2018,72068,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,11500
+Nissan,Rogue,2020,38105,Gasoline,5.0L V8,CVT,None reported,Yes,17900
+Tesla,Model Y,2024,3069,Electric,Dual Electric Motor,Automatic,None reported,Yes,51000
+Subaru,Outback,2016,78292,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10500
+Lexus,ES 350,2013,114638,Gasoline,2.5L I4,Automatic,None reported,Yes,13700
+Honda,Accord,2021,35668,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,17700
+Chevrolet,Malibu,2023,9106,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,30800
+Lexus,NX 300,2020,41282,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,28000
+Audi,Q5,2021,25086,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,31100
+Lexus,NX 300,2012,145693,Gasoline,5.0L V8,Automatic,None reported,Yes,13300
+Lexus,RX 350,2016,119903,Gasoline,3.5L V6,Manual,None reported,Yes,19200
+Lexus,ES 350,2022,35519,Gasoline,3.5L V6,Automatic,None reported,Yes,42200
+Subaru,Forester,2020,43176,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,19400
+Hyundai,Santa Fe,2021,26791,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,14200
+Lexus,ES 350,2024,2500,Gasoline,5.0L V8,CVT,None reported,Yes,58600
+Audi,A4,2015,123042,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,15700
+Porsche,911,2023,11560,Gasoline,2.5L I4,Automatic,None reported,Yes,111700
+Chevrolet,Malibu,2022,25855,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,24900
+BMW,M3,2021,45649,Gasoline,5.0L V8,Automatic,None reported,Yes,54800
+Audi,A6,2020,43385,Gasoline,5.0L V8,Automatic,None reported,Yes,34300
+Hyundai,Santa Fe,2015,139143,Gasoline,5.0L V8,Automatic,None reported,Yes,8400
+Hyundai,Sonata,2013,212711,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,4500
+Ford,Mustang,2017,64129,Gasoline,5.0L V8,Dual-Clutch,At least 1 accident or damage reported,Yes,13200
+Nissan,Rogue,2018,61712,Gasoline,5.0L V8,Automatic,None reported,Yes,12900
+Tesla,Model Y,2024,2500,Electric,Single Electric Motor,Automatic,None reported,Yes,52400
+Audi,A6,2018,50726,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,25600
+Nissan,Pathfinder,2019,69041,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,12400
+Jeep,Wrangler,2018,102068,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,16900
+Ford,Mustang,2021,33782,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,25500
+Chevrolet,Camaro,2018,66372,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,15100
+Chevrolet,Tahoe,2014,99858,Gasoline,3.5L V6,Manual,None reported,Yes,9800
+Hyundai,Tucson,2014,149370,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,No,4800
+Lexus,RX 350,2022,18655,Gasoline,5.0L V8,Manual,None reported,Yes,44800
+Nissan,Rogue,2023,15242,Gasoline,5.0L V8,Manual,None reported,Yes,25200
+Audi,A4,2022,31313,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,27100
+Chevrolet,Equinox,2017,124919,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,13500
+Toyota,Prius,2022,24953,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,20500
+Mercedes-Benz,S-Class,2014,125133,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,20900
+Nissan,Altima,2022,22338,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,22800
+Mercedes-Benz,S-Class,2018,55214,Gasoline,3.5L V6,Automatic,None reported,Yes,39600
+BMW,5 Series,2019,58722,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,21800
+Jeep,Wrangler,2017,75123,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,No,11100
+Tesla,Model Y,2024,2500,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,Yes,37300
+Toyota,Camry,2020,48256,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,12200
+Porsche,Macan,2020,54356,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,50700
+Toyota,Corolla,2014,132757,Gasoline,3.5L V6,Manual,None reported,Yes,7500
+Honda,Civic,2018,100297,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,10600
+Porsche,911,2018,71889,Gasoline,3.5L V6,Automatic,None reported,Yes,61700
+Jeep,Wrangler,2024,2500,Gasoline,2.0L I4 Turbo,Dual-Clutch,At least 1 accident or damage reported,No,25900
+Lexus,IS 300,2019,39113,Gasoline,3.5L V6,Automatic,None reported,Yes,30500
+Ford,Explorer,2020,37477,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,21800
+BMW,M3,2023,7362,Gasoline,5.0L V8,Manual,None reported,Yes,67900
+Subaru,Forester,2015,115099,Gasoline,5.0L V8,CVT,None reported,Yes,11600
+Mercedes-Benz,GLE,2019,55537,Gasoline,5.0L V8,CVT,At least 1 accident or damage reported,No,25200
+Lexus,NX 300,2017,98760,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,21200
+Nissan,Pathfinder,2016,97038,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,7100
+BMW,5 Series,2016,100835,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,18300
+Audi,A4,2016,84248,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,17700
+Nissan,Sentra,2021,26794,Gasoline,3.5L V6,Automatic,None reported,Yes,15600
+BMW,3 Series,2018,97613,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,23100
+Subaru,Outback,2020,57111,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,16200
+Honda,Civic,2018,53035,Gasoline,2.5L I4,CVT,None reported,Yes,12100
+Honda,HR-V,2019,67613,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,13500
+Mercedes-Benz,GLE,2015,74327,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,19900
+Nissan,Sentra,2016,92454,Gasoline,5.0L V8,Automatic,None reported,Yes,8800
+Tesla,Model S,2023,8321,Electric,Single Electric Motor,Automatic,None reported,Yes,59100
+BMW,X5,2022,20183,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,37900
+BMW,3 Series,2020,54149,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,28000
+Lexus,IS 300,2014,110345,Gasoline,2.5L I4,Automatic,None reported,Yes,15100
+Chevrolet,Tahoe,2020,42587,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,14300
+Porsche,911,2021,43461,Gasoline,5.0L V8,Automatic,None reported,Yes,100200
+Lexus,RX 350,2023,10197,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,44700
+Chevrolet,Malibu,2022,33831,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,23000
+BMW,5 Series,2022,33040,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,39000
+Nissan,Pathfinder,2018,84935,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,11200
+Chevrolet,Equinox,2023,5143,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,28100
+Hyundai,Sonata,2018,80594,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,8900
+Hyundai,Elantra,2015,70764,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,7500
+Lexus,RX 350,2018,80153,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,22100
+Jeep,Wrangler,2021,51007,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,21300
+Chevrolet,Tahoe,2019,80662,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,16200
+BMW,X5,2020,52667,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,28700
+Ford,Escape,2021,47523,Diesel,2.0L I4 Turbo Diesel,CVT,None reported,Yes,21200
+Chevrolet,Malibu,2023,16043,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,31100
+Mercedes-Benz,GLE,2012,112970,Gasoline,5.0L V8,CVT,None reported,Yes,14000
+Subaru,Impreza,2018,69631,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,13800
+BMW,X3,2018,44331,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,27500
+Toyota,Tacoma,2021,27653,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,21700
+Nissan,Altima,2021,36635,Gasoline,5.0L V8,Automatic,None reported,Yes,19600
+Audi,A4,2019,47233,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,24200
+Tesla,Model Y,2020,29741,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,28100
+Toyota,Tacoma,2018,78691,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13800
+Porsche,Cayenne,2012,180958,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17100
+Tesla,Model 3,2022,21789,Electric,Dual Electric Motor,Automatic,None reported,Yes,42600
+Chevrolet,Silverado,2021,32065,Gasoline,3.5L V6,Automatic,None reported,Yes,23600
+BMW,M3,2017,52493,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,30400
+Tesla,Model 3,2020,32123,Electric,Single Electric Motor,Automatic,None reported,Yes,27800
+Lexus,NX 300,2020,22778,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,31600
+BMW,X3,2023,13467,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,49400
+Mercedes-Benz,GLE,2020,36853,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,33800
+Lexus,NX 300,2012,103462,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,9800
+Audi,A4,2012,151147,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10900
+Hyundai,Elantra,2018,81019,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,9400
+Nissan,Sentra,2020,33035,Gasoline,3.5L V6,Automatic,None reported,Yes,15000
+Mercedes-Benz,E-Class,2019,33169,Gasoline,2.5L I4,Automatic,None reported,Yes,32500
+Honda,Accord,2017,68899,Gasoline,2.5L I4,Automatic,None reported,Yes,11500
+Mercedes-Benz,E-Class,2014,122135,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19100
+Porsche,Macan,2022,30684,Gasoline,3.5L V6,Automatic,None reported,Yes,67000
+Jeep,Cherokee,2020,44805,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,22800
+Lexus,NX 300,2022,15935,Gasoline,5.0L V8,Dual-Clutch,At least 1 accident or damage reported,No,33200
+Honda,Accord,2016,100258,Gasoline,2.5L I4,Automatic,None reported,Yes,9900
+Honda,Civic,2023,14565,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,13300
+Mercedes-Benz,GLC,2015,117916,Gasoline,3.5L V6,Manual,None reported,Yes,18600
+BMW,X3,2017,111672,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,16700
+Lexus,NX 300,2023,19589,Gasoline,3.5L V6,Automatic,None reported,Yes,43900
+Hyundai,Tucson,2023,2500,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20000
+Honda,Pilot,2017,53473,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,9300
+Toyota,Camry,2014,143673,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,8100
+Jeep,Wrangler,2019,79265,Gasoline,5.0L V8,Automatic,None reported,Yes,20500
+Mercedes-Benz,E-Class,2018,92286,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,No,21100
+Hyundai,Santa Fe,2020,24450,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,15600
+Honda,Civic,2023,17464,Gasoline,5.0L V8,Automatic,None reported,Yes,21100
+Ford,Edge,2021,24557,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,22600
+Porsche,Macan,2022,2500,Gasoline,3.5L V6,CVT,None reported,Yes,81400
+Nissan,Sentra,2017,120240,Gasoline,3.0L V6 Turbo,CVT,At least 1 accident or damage reported,Yes,7300
+Ford,F-150,2022,34077,Gasoline,2.5L I4,Manual,None reported,Yes,32100
+Audi,A4,2021,28472,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,34200
+BMW,5 Series,2017,84698,Gasoline,5.0L V8,Automatic,None reported,Yes,27200
+Honda,CR-V,2014,122406,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,9100
+Tesla,Model S,2023,10937,Electric,Dual Electric Motor,Automatic,None reported,Yes,64500
+BMW,5 Series,2020,52875,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,23200
+Chevrolet,Silverado,2021,35700,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,23300
+Subaru,Crosstrek,2021,27104,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,21500
+Jeep,Cherokee,2015,124962,Gasoline,5.0L V8,Automatic,None reported,Yes,11900
+Jeep,Wrangler,2024,2500,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,33300
+Ford,F-150,2018,84335,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19800
+Porsche,911,2022,33684,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,97400
+BMW,5 Series,2022,28189,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,43800
+Audi,Q5,2022,23131,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,38900
+BMW,3 Series,2016,74162,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,No,16500
+BMW,X5,2014,112429,Gasoline,2.5L I4,Automatic,None reported,Yes,13000
+Mercedes-Benz,C-Class,2022,17007,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,50800
+Audi,S5,2021,33412,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,37400
+Lexus,NX 300,2018,49846,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,No,19200
+Honda,CR-V,2013,164260,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,No,4600
+Tesla,Model Y,2022,31694,Electric,Dual Electric Motor,Automatic,None reported,Yes,43200
+Honda,HR-V,2021,51536,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,12500
+Audi,Q5,2016,111365,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19200
+Tesla,Model S,2016,92871,Electric,Dual Electric Motor,Automatic,None reported,Yes,28000
+Chevrolet,Camaro,2017,102969,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,11400
+Mercedes-Benz,C-Class,2024,2500,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,58800
+Chevrolet,Silverado,2019,60979,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,17900
+Audi,Q7,2015,126455,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,No,11400
+Lexus,NX 300,2022,12895,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,42000
+Lexus,RX 350,2015,58024,Gasoline,5.0L V8,Automatic,None reported,Yes,20700
+Mercedes-Benz,S-Class,2022,12575,Gasoline,2.5L I4,Automatic,None reported,Yes,64300
+Lexus,IS 300,2019,52689,Gasoline,2.5L I4,Automatic,None reported,Yes,24500
+Chevrolet,Malibu,2013,159343,Gasoline,3.5L V6,CVT,At least 1 accident or damage reported,Yes,6400
+Ford,Mustang,2014,126105,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,9700
+Lexus,IS 300,2015,122958,Gasoline,5.0L V8,Automatic,None reported,Yes,17800
+Subaru,Forester,2022,29707,Gasoline,3.5L V6,Automatic,None reported,Yes,19900
+Tesla,Model Y,2012,173734,Electric,Single Electric Motor,Automatic,None reported,Yes,10100
+Nissan,Altima,2019,46976,Gasoline,2.5L I4,CVT,At least 1 accident or damage reported,Yes,11500
+Mercedes-Benz,E-Class,2019,73174,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,24000
+Jeep,Cherokee,2021,47049,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,17500
+Lexus,NX 300,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,51800
+Hyundai,Santa Fe,2017,104933,Gasoline,5.0L V8,Manual,None reported,Yes,11300
+BMW,M3,2022,19608,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,65400
+Jeep,Cherokee,2018,47543,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,17800
+Lexus,RX 350,2020,65211,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,22700
+Nissan,Rogue,2018,63082,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10900
+Porsche,Cayenne,2022,29982,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,71800
+BMW,5 Series,2023,9660,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,45400
+Toyota,Camry,2017,89845,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,11100
+Hyundai,Elantra,2015,62856,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,7600
+Chevrolet,Camaro,2014,68972,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,8400
+Subaru,Impreza,2024,4824,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,29300
+Chevrolet,Equinox,2020,58589,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,17500
+Lexus,RX 350,2022,35647,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,35200
+Jeep,Grand Cherokee,2020,49352,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,29500
+Ford,Edge,2020,38088,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,21900
+Toyota,Tacoma,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,28800
+Porsche,911,2017,110293,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,48000
+Ford,Escape,2013,108785,Gasoline,5.0L V8,CVT,None reported,Yes,8700
+Nissan,Rogue,2018,78513,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,14000
+Tesla,Model S,2020,36629,Electric,Single Electric Motor,Automatic,None reported,Yes,40200
+Porsche,Panamera,2021,31620,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,76600
+Subaru,Impreza,2018,73434,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,13800
+Mercedes-Benz,E-Class,2015,97168,Gasoline,5.0L V8,Automatic,None reported,Yes,22300
+Mercedes-Benz,S-Class,2017,64754,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,31000
+Lexus,ES 350,2020,23510,Gasoline,2.5L I4,Dual-Clutch,At least 1 accident or damage reported,No,22900
+Hyundai,Elantra,2023,11349,Gasoline,5.0L V8,CVT,At least 1 accident or damage reported,Yes,16300
+Mercedes-Benz,E-Class,2014,140009,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,12300
+Audi,Q5,2022,26120,Gasoline,3.5L V6,Manual,None reported,Yes,35500
+Honda,Accord,2015,102788,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,7200
+BMW,X5,2024,2500,Gasoline,5.0L V8,Automatic,None reported,Yes,55100
+Ford,Mustang,2020,49333,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,19800
+Chevrolet,Tahoe,2013,106255,Gasoline,2.5L I4,Automatic,None reported,Yes,8200
+Nissan,Pathfinder,2019,53919,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,15500
+Toyota,Corolla,2015,103987,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,8700
+Chevrolet,Camaro,2022,27435,Gasoline,5.0L V8,Automatic,None reported,Yes,27200
+Toyota,Tacoma,2022,19178,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,23800
+Hyundai,Elantra,2014,124538,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,6500
+Mercedes-Benz,GLE,2015,131590,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,20200
+Nissan,Sentra,2023,15441,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,13500
+BMW,X3,2023,15549,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,47200
+Hyundai,Elantra,2019,61865,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,11300
+Audi,Q7,2014,104779,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,12900
+Ford,Escape,2018,54232,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,16900
+Tesla,Model S,2021,30982,Electric,Dual Electric Motor,Automatic,None reported,Yes,55000
+Chevrolet,Camaro,2020,31908,Gasoline,3.5L V6,Automatic,None reported,Yes,20500
+Lexus,RX 350,2021,29404,Diesel,2.0L I4 Turbo Diesel,Manual,None reported,Yes,34400
+Lexus,IS 300,2020,52206,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,30500
+Porsche,Panamera,2023,4590,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,105400
+Toyota,RAV4,2023,5307,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,21700
+Audi,A6,2017,81706,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,19700
+Audi,Q5,2020,53633,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,28800
+Mercedes-Benz,GLE,2022,31661,Gasoline,2.5L I4,Automatic,None reported,Yes,47400
+Porsche,911,2023,18529,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,115900
+Toyota,Prius,2016,83581,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,11100
+Audi,A6,2016,131502,Gasoline,5.0L V8,Automatic,None reported,Yes,18700
+Honda,Civic,2013,103191,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,6100
+BMW,5 Series,2023,15946,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,44400
+Tesla,Model 3,2018,46588,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,19400
+Ford,Escape,2021,58029,Gasoline,5.0L V8,Automatic,None reported,Yes,22900
+Honda,HR-V,2021,32188,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,18600
+Hyundai,Tucson,2022,24071,Gasoline,2.5L I4,Automatic,None reported,Yes,19500
+Ford,Edge,2017,62250,Gasoline,3.5L V6,Automatic,None reported,Yes,14300
+Subaru,Outback,2020,66850,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,17000
+Mercedes-Benz,C-Class,2020,32354,Gasoline,3.5L V6,Automatic,None reported,Yes,38500
+Toyota,RAV4,2017,47494,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,10400
+Chevrolet,Equinox,2019,64176,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,16800
+Tesla,Model S,2015,76922,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,20300
+Honda,CR-V,2013,90709,Gasoline,5.0L V8,CVT,None reported,Yes,9200
+Tesla,Model 3,2019,43348,Electric,Dual Electric Motor,Automatic,None reported,Yes,30800
+Audi,S5,2023,7280,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,35300
+Lexus,NX 300,2020,40797,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,29300
+Nissan,Rogue,2021,31715,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,16500
+Porsche,Panamera,2015,92049,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,38300
+Honda,Pilot,2014,130636,Gasoline,2.5L I4,Automatic,None reported,Yes,7500
+Lexus,IS 300,2019,46810,Gasoline,5.0L V8,Automatic,None reported,Yes,32900
+Ford,Escape,2020,43337,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,18900
+Subaru,Crosstrek,2017,91221,Gasoline,3.5L V6,Automatic,None reported,Yes,12100
+Jeep,Cherokee,2023,4371,Diesel,3.0L V6 Turbo Diesel,Manual,None reported,Yes,34900
+Hyundai,Santa Fe,2023,8570,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,24000
+Tesla,Model Y,2022,12817,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,Yes,33800
+Porsche,Cayenne,2018,78932,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,No,31000
+Mercedes-Benz,GLE,2022,23340,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,41200
+Jeep,Grand Cherokee,2019,60910,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,26300
+Audi,A4,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,53100
+Porsche,Macan,2015,130245,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,19200
+Hyundai,Sonata,2021,36364,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,16200
+Jeep,Grand Cherokee,2022,2780,Gasoline,2.5L I4,CVT,None reported,Yes,38500
+Mercedes-Benz,S-Class,2015,128383,Gasoline,5.0L V8,Automatic,None reported,Yes,25800
+Mercedes-Benz,S-Class,2021,21101,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,58900
+Nissan,Sentra,2024,2500,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20600
+BMW,X5,2022,29630,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,39700
+Nissan,Sentra,2016,105052,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,6400
+Lexus,IS 300,2021,28463,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,30700
+Jeep,Wrangler,2018,59001,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,17100
+Mercedes-Benz,E-Class,2023,16707,Gasoline,3.0L V6 Turbo,Dual-Clutch,None reported,Yes,54700
+Subaru,Forester,2017,72476,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,11800
+Lexus,NX 300,2016,94127,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19200
+Nissan,Rogue,2017,107298,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,10300
+Subaru,Crosstrek,2013,105352,Gasoline,2.5L I4,CVT,None reported,Yes,8400
+Subaru,Impreza,2014,146260,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,6900
+Mercedes-Benz,GLC,2019,49225,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,33400
+Honda,Accord,2020,68648,Gasoline,2.5L I4,Automatic,None reported,Yes,15300
+Honda,HR-V,2021,13368,Gasoline,5.0L V8,Automatic,None reported,Yes,23400
+Ford,Mustang,2014,87445,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,9800
+Subaru,Impreza,2016,36352,Gasoline,2.5L I4,Automatic,None reported,Yes,13000
+Subaru,Crosstrek,2012,123859,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,7000
+Porsche,Cayenne,2018,66603,Gasoline,2.5L I4,Automatic,None reported,Yes,40300
+BMW,X3,2023,16960,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,41600
+Mercedes-Benz,C-Class,2018,36624,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,28200
+Nissan,Sentra,2022,21410,Gasoline,2.5L I4,Automatic,None reported,Yes,14500
+Toyota,Camry,2015,90168,Gasoline,3.5L V6,Automatic,None reported,Yes,10000
+Mercedes-Benz,E-Class,2023,19807,Gasoline,5.0L V8,Automatic,None reported,Yes,58100
+Porsche,Panamera,2020,50324,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,74400
+Porsche,911,2020,23052,Gasoline,3.5L V6,Automatic,None reported,Yes,83800
+Mercedes-Benz,GLE,2018,53923,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,29900
+Hyundai,Tucson,2021,21626,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,12500
+Toyota,RAV4,2020,42899,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,16700
+Honda,Civic,2015,72786,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,8200
+Hyundai,Elantra,2020,41815,Gasoline,3.5L V6,Automatic,None reported,Yes,13400
+Lexus,RX 350,2020,28817,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,31100
+Ford,Edge,2012,98905,Gasoline,2.5L I4,Automatic,None reported,Yes,8000
+Honda,Accord,2018,70736,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,12700
+Nissan,Pathfinder,2023,16879,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,18300
+Jeep,Cherokee,2018,70365,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19200
+Hyundai,Santa Fe,2019,60759,Gasoline,2.5L I4,Automatic,None reported,Yes,12200
+Porsche,Panamera,2017,83759,Gasoline,2.5L I4,Automatic,None reported,Yes,55800
+Tesla,Model S,2019,44876,Electric,Dual Electric Motor,Automatic,None reported,Yes,43700
+Tesla,Model S,2020,35521,Electric,Dual Electric Motor,Automatic,None reported,Yes,54100
+Jeep,Wrangler,2016,56992,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,11700
+Mercedes-Benz,C-Class,2022,25250,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,43500
+BMW,5 Series,2022,18251,Gasoline,3.5L V6,Automatic,None reported,Yes,47800
+Honda,Accord,2018,43108,Gasoline,1.5L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,11600
+Chevrolet,Tahoe,2020,58405,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,14800
+Mercedes-Benz,C-Class,2019,68117,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,31100
+Mercedes-Benz,GLC,2015,129344,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,15800
+Honda,Accord,2024,2500,Gasoline,2.5L I4,Automatic,None reported,Yes,27700
+Jeep,Cherokee,2015,126024,Gasoline,3.5L V6,Manual,At least 1 accident or damage reported,Yes,10400
+Lexus,ES 350,2014,90296,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,15600
+Honda,HR-V,2022,21272,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,22000
+Lexus,ES 350,2022,22254,Gasoline,2.5L I4,Automatic,None reported,Yes,36600
+Porsche,Cayenne,2022,16740,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,72800
+Toyota,Corolla,2016,93986,Gasoline,2.5L I4,Automatic,None reported,Yes,7200
+Tesla,Model S,2020,45610,Electric,Single Electric Motor,Automatic,None reported,Yes,40000
+Hyundai,Elantra,2016,114478,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,7300
+Subaru,Crosstrek,2017,62478,Gasoline,5.0L V8,Automatic,None reported,Yes,14700
+Chevrolet,Malibu,2021,28925,Gasoline,3.5L V6,Automatic,None reported,Yes,24600
+Nissan,Pathfinder,2017,61198,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,11400
+Honda,HR-V,2022,25822,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,15100
+Chevrolet,Malibu,2018,110361,Gasoline,3.5L V6,Automatic,None reported,Yes,15200
+Mercedes-Benz,C-Class,2021,36087,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,31300
+BMW,M3,2024,2500,Gasoline,3.5L V6,Automatic,None reported,Yes,75400
+Toyota,Prius,2018,89951,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,13400
+Tesla,Model 3,2016,94065,Electric,Dual Electric Motor,Automatic,None reported,Yes,22400
+Hyundai,Santa Fe,2015,141154,Gasoline,2.5L I4,Automatic,None reported,Yes,6800
+Ford,Edge,2023,9901,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,28100
+Lexus,IS 300,2017,43933,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19200
+Hyundai,Tucson,2020,43398,Gasoline,3.0L V6 Turbo,Dual-Clutch,None reported,Yes,15900
+Audi,Q5,2021,41088,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,No,27800
+Honda,Accord,2017,84944,Gasoline,2.5L I4,Automatic,None reported,Yes,12300
+Chevrolet,Tahoe,2017,84163,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,10500
+Lexus,IS 300,2018,94234,Gasoline,3.5L V6,Automatic,None reported,Yes,23400
+Toyota,Highlander,2021,28079,Diesel,2.0L I4 Turbo Diesel,Dual-Clutch,At least 1 accident or damage reported,Yes,16600
+Audi,Q5,2014,111508,Gasoline,2.5L I4,Automatic,None reported,Yes,14100
+Honda,Pilot,2022,17317,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,19900
+Lexus,IS 300,2018,83338,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,25000
+Toyota,Corolla,2013,107298,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,6900
+Audi,S5,2021,19102,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,35100
+Lexus,IS 300,2019,35074,Gasoline,1.5L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,22300
+BMW,X3,2024,2500,Gasoline,3.5L V6,Automatic,None reported,Yes,56900
+Ford,Explorer,2014,120047,Gasoline,3.0L V6 Turbo,Manual,At least 1 accident or damage reported,Yes,8200
+Subaru,Impreza,2024,2500,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,29700
+Toyota,Prius,2021,27781,Gasoline,3.5L V6,Manual,None reported,Yes,22000
+Jeep,Wrangler,2016,82018,Gasoline,5.0L V8,CVT,None reported,Yes,16400
+Ford,Explorer,2014,101633,Gasoline,3.5L V6,Automatic,None reported,Yes,9900
+Toyota,Tacoma,2023,4203,Gasoline,3.0L V6 Turbo,Manual,At least 1 accident or damage reported,Yes,24100
+Honda,Accord,2020,57934,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,14800
+Hyundai,Elantra,2016,103433,Gasoline,5.0L V8,Automatic,None reported,Yes,8500
+Porsche,Cayenne,2022,21692,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,70500
+Subaru,Crosstrek,2023,13153,Gasoline,3.5L V6,Automatic,None reported,Yes,26900
+Subaru,Crosstrek,2020,35286,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,15300
+Porsche,Panamera,2022,22279,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,106200
+BMW,X5,2015,110665,Gasoline,3.5L V6,Automatic,None reported,Yes,18500
+Ford,Escape,2012,123220,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,6400
+Tesla,Model S,2017,55875,Electric,Dual Electric Motor,Automatic,None reported,Yes,34800
+Porsche,911,2021,23153,Gasoline,2.5L I4,Automatic,None reported,Yes,90200
+Jeep,Grand Cherokee,2022,15696,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,34500
+Jeep,Cherokee,2021,19360,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,20200
+Porsche,911,2024,3171,Gasoline,2.5L I4,Manual,None reported,Yes,132000
+Subaru,Crosstrek,2018,129306,Gasoline,3.5L V6,CVT,None reported,Yes,13600
+Tesla,Model S,2021,33402,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,No,29800
+Porsche,Cayenne,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,81100
+Nissan,Pathfinder,2018,75036,Gasoline,2.5L I4,Automatic,None reported,Yes,10700
+Audi,S5,2021,32059,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,40500
+Hyundai,Tucson,2021,33434,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,16100
+Subaru,Forester,2017,63888,Gasoline,3.5L V6,Automatic,None reported,Yes,14400
+Chevrolet,Equinox,2020,44277,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,18600
+Toyota,RAV4,2021,41773,Gasoline,5.0L V8,Automatic,None reported,Yes,21600
+Hyundai,Santa Fe,2021,29956,Gasoline,3.0L V6 Turbo,Dual-Clutch,None reported,Yes,19300
+Lexus,ES 350,2016,132845,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,17200
+Toyota,Corolla,2019,37885,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,15300
+Porsche,911,2019,68595,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,60600
+Honda,HR-V,2017,95273,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,11400
+Toyota,Prius,2020,48734,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,13200
+Chevrolet,Equinox,2021,48020,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20400
+Hyundai,Tucson,2020,53510,Gasoline,2.5L I4,Automatic,None reported,Yes,15400
+Tesla,Model S,2017,92264,Electric,Single Electric Motor,Automatic,None reported,Yes,25900
+Lexus,RX 350,2021,38189,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,27200
+Porsche,Panamera,2017,113756,Gasoline,2.5L I4,Automatic,None reported,Yes,42400
+Lexus,IS 300,2021,42144,Gasoline,3.5L V6,Automatic,None reported,Yes,37100
+Toyota,Tacoma,2017,115102,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,11100
+BMW,X3,2023,7314,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,47000
+Subaru,Outback,2020,41301,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,17100
+Honda,Civic,2023,11784,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,22700
+Ford,Explorer,2021,11819,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,22600
+Toyota,RAV4,2019,67632,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,14700
+Mercedes-Benz,GLC,2022,29422,Gasoline,2.5L I4,Automatic,None reported,Yes,45100
+Chevrolet,Equinox,2022,22262,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,24700
+Nissan,Pathfinder,2019,27459,Gasoline,3.5L V6,CVT,At least 1 accident or damage reported,No,10600
+Lexus,ES 350,2019,36130,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,26500
+Ford,F-150,2022,30461,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,30900
+Tesla,Model S,2021,39953,Electric,Dual Electric Motor,Automatic,None reported,Yes,47900
+Hyundai,Sonata,2014,147948,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,6300
+Hyundai,Tucson,2018,75781,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,11900
+Mercedes-Benz,C-Class,2013,78779,Gasoline,3.0L V6 Turbo,Dual-Clutch,None reported,Yes,15300
+Mercedes-Benz,S-Class,2019,86176,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,38800
+Honda,Pilot,2018,78597,Gasoline,2.5L I4,Automatic,None reported,Yes,12300
+Tesla,Model Y,2015,78201,Electric,Single Electric Motor,Automatic,None reported,Yes,17500
+Subaru,Crosstrek,2023,5820,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,23500
+Porsche,Macan,2020,28270,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,59000
+Chevrolet,Tahoe,2022,26522,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,20100
+BMW,X5,2023,7407,Gasoline,3.5L V6,Manual,At least 1 accident or damage reported,No,36100
+Audi,S5,2013,121164,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,12600
+Subaru,Crosstrek,2018,71623,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,14800
+Porsche,Panamera,2016,56013,Gasoline,2.5L I4,Automatic,None reported,Yes,51100
+Toyota,Tacoma,2021,45138,Gasoline,5.0L V8,Manual,None reported,Yes,24400
+Jeep,Cherokee,2020,64417,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,21500
+Tesla,Model S,2020,32784,Electric,Single Electric Motor,Automatic,None reported,Yes,42200
+Porsche,Macan,2023,13439,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,78300
+Tesla,Model Y,2020,56926,Electric,Dual Electric Motor,Automatic,None reported,Yes,30400
+Lexus,ES 350,2017,63231,Gasoline,3.5L V6,Automatic,None reported,Yes,23300
+Mercedes-Benz,E-Class,2016,114543,Gasoline,5.0L V8,CVT,None reported,Yes,22000
+Honda,Civic,2022,24165,Gasoline,2.5L I4,CVT,None reported,Yes,16600
+Jeep,Grand Cherokee,2016,66465,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20100
+Tesla,Model Y,2022,30313,Electric,Dual Electric Motor,Automatic,None reported,Yes,43000
+Honda,CR-V,2018,57460,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,9500
+Subaru,Impreza,2020,46090,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,No,13000
+BMW,5 Series,2016,96758,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,20800
+Audi,S5,2021,39080,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,34600
+Porsche,Cayenne,2012,134072,Gasoline,2.5L I4,Automatic,None reported,Yes,19500
+Porsche,Panamera,2016,126556,Gasoline,2.5L I4,CVT,None reported,Yes,45400
+Subaru,Crosstrek,2022,35678,Diesel,2.0L I4 Turbo Diesel,Manual,None reported,Yes,24200
+Hyundai,Elantra,2021,20101,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,No,9600
+Jeep,Wrangler,2024,2502,Gasoline,5.0L V8,Automatic,None reported,Yes,43300
+Subaru,Impreza,2021,30896,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,21600
+Honda,Pilot,2021,41228,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17800
+Mercedes-Benz,S-Class,2021,50259,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,51700
+Hyundai,Tucson,2021,48137,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,17800
+Tesla,Model Y,2018,68739,Electric,Single Electric Motor,Automatic,None reported,Yes,23100
+Honda,Accord,2020,53320,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,17300
+Toyota,Tacoma,2020,34923,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,16600
+Tesla,Model 3,2022,29988,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,36400
+Lexus,IS 300,2022,19966,Gasoline,5.0L V8,Dual-Clutch,At least 1 accident or damage reported,Yes,34900
+Mercedes-Benz,GLE,2016,87028,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19200
+Ford,F-150,2015,103750,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,13300
+Mercedes-Benz,GLE,2015,79867,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,18000
+Honda,Accord,2022,16815,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,19000
+Chevrolet,Tahoe,2020,42760,Gasoline,2.5L I4,Automatic,None reported,Yes,19400
+Lexus,IS 300,2020,37749,Gasoline,3.5L V6,Automatic,None reported,Yes,30600
+Subaru,Forester,2021,20932,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,23500
+Lexus,RX 350,2020,46034,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,25800
+Tesla,Model Y,2022,17992,Electric,Single Electric Motor,Automatic,None reported,Yes,37100
+Toyota,Prius,2017,112224,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,8800
+BMW,X5,2019,76956,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,30000
+BMW,X3,2015,69792,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,18000
+Lexus,NX 300,2023,14269,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,39100
+Lexus,NX 300,2014,151168,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,12500
+Chevrolet,Malibu,2023,6115,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,21600
+Honda,Pilot,2021,28488,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17900
+Lexus,ES 350,2016,75694,Gasoline,5.0L V8,Manual,None reported,Yes,23000
+Lexus,RX 350,2019,80983,Diesel,2.0L I4 Turbo Diesel,Manual,None reported,Yes,24300
+Jeep,Grand Cherokee,2013,136741,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,9300
+Ford,Edge,2019,33137,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,16600
+Honda,HR-V,2013,114271,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,7300
+Tesla,Model 3,2018,65928,Electric,Dual Electric Motor,Automatic,None reported,Yes,27000
+Audi,A6,2016,84032,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,21100
+Mercedes-Benz,E-Class,2012,146713,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,12800
+Nissan,Rogue,2017,90925,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,8900
+Honda,Civic,2021,21911,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,17200
+Toyota,RAV4,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,25700
+Tesla,Model Y,2018,55949,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,18300
+Ford,Explorer,2024,2500,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,26100
+Ford,Escape,2021,44784,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,22300
+Subaru,Outback,2018,52615,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,14200
+Hyundai,Tucson,2021,24645,Gasoline,3.5L V6,Automatic,None reported,Yes,18600
+Tesla,Model 3,2017,108817,Electric,Single Electric Motor,Automatic,None reported,Yes,18700
+Nissan,Sentra,2019,71593,Gasoline,3.5L V6,Manual,None reported,Yes,13300
+Toyota,Prius,2023,7310,Gasoline,5.0L V8,CVT,At least 1 accident or damage reported,No,19600
+Nissan,Rogue,2020,33274,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,18600
+Lexus,RX 350,2013,148063,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13400
+Hyundai,Santa Fe,2017,80917,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,10600
+Lexus,RX 350,2016,131638,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,15200
+Subaru,Impreza,2019,32604,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,16600
+Honda,CR-V,2019,42924,Gasoline,3.5L V6,Manual,At least 1 accident or damage reported,Yes,13800
+Ford,F-150,2019,62914,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,22300
+Mercedes-Benz,S-Class,2019,53427,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,46500
+Tesla,Model S,2021,30460,Electric,Single Electric Motor,Automatic,None reported,Yes,46900
+Chevrolet,Camaro,2021,35046,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,18200
+Mercedes-Benz,GLE,2020,26702,Gasoline,3.5L V6,Automatic,None reported,Yes,41400
+Tesla,Model Y,2014,148789,Electric,Dual Electric Motor,Automatic,None reported,Yes,14400
+Jeep,Cherokee,2022,20322,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,28300
+Porsche,Cayenne,2021,21213,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,70700
+Hyundai,Sonata,2020,44475,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,16000
+Audi,Q7,2022,22660,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,29900
+Chevrolet,Silverado,2019,60535,Gasoline,2.5L I4,Automatic,None reported,Yes,16500
+Chevrolet,Malibu,2021,43508,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,19400
+Audi,A6,2022,22095,Gasoline,5.0L V8,Automatic,None reported,Yes,41500
+Hyundai,Elantra,2017,83527,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,9200
+Porsche,911,2021,26036,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,81400
+Chevrolet,Silverado,2012,114467,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,7200
+Jeep,Wrangler,2013,127174,Gasoline,3.5L V6,Automatic,None reported,Yes,9900
+Toyota,Tacoma,2020,46926,Gasoline,3.5L V6,Automatic,None reported,Yes,18300
+Nissan,Rogue,2017,78543,Gasoline,5.0L V8,Automatic,None reported,Yes,12500
+Honda,Pilot,2016,105823,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,9400
+Porsche,Panamera,2018,78092,Gasoline,5.0L V8,Automatic,None reported,Yes,59700
+Toyota,RAV4,2020,27433,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,16600
+Audi,A4,2015,76345,Gasoline,3.5L V6,Automatic,None reported,Yes,18900
+Nissan,Sentra,2021,32857,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,No,9900
+Lexus,IS 300,2016,54791,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,19600
+Porsche,911,2015,132302,Gasoline,2.5L I4,Automatic,None reported,Yes,39200
+Porsche,Macan,2024,7318,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,79600
+Jeep,Grand Cherokee,2019,86850,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,17700
+Jeep,Grand Cherokee,2022,32999,Gasoline,3.5L V6,Manual,None reported,Yes,37700
+Jeep,Cherokee,2022,21283,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,24400
+Lexus,RX 350,2022,25388,Gasoline,3.5L V6,Automatic,None reported,Yes,36800
+Lexus,NX 300,2017,115940,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19700
+Ford,Explorer,2021,33102,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,21800
+Audi,Q5,2023,3483,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,39600
+Ford,Mustang,2012,107094,Gasoline,3.5L V6,Automatic,None reported,Yes,8600
+Lexus,IS 300,2013,129784,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13200
+Ford,F-150,2014,69176,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,13300
+Subaru,Forester,2020,60852,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,18700
+Chevrolet,Tahoe,2023,6007,Gasoline,2.5L I4,Automatic,None reported,Yes,29700
+Ford,Explorer,2020,27539,Gasoline,2.5L I4,CVT,At least 1 accident or damage reported,Yes,16400
+Subaru,Crosstrek,2014,158426,Gasoline,3.5L V6,Automatic,None reported,Yes,7700
+Tesla,Model 3,2017,109063,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,17400
+Ford,Mustang,2020,35779,Gasoline,3.5L V6,Automatic,None reported,Yes,19800
+Toyota,Prius,2014,94635,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,8400
+Mercedes-Benz,GLE,2020,62675,Gasoline,5.0L V8,Automatic,None reported,Yes,40400
+Chevrolet,Tahoe,2017,105833,Gasoline,3.5L V6,Automatic,None reported,Yes,12500
+Hyundai,Santa Fe,2021,40734,Gasoline,2.5L I4,Manual,None reported,Yes,15900
+BMW,M3,2020,23696,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,46500
+Audi,Q7,2019,83608,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,27000
+Mercedes-Benz,S-Class,2016,151097,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,26900
+Nissan,Rogue,2017,93506,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,9700
+BMW,X5,2021,41332,Gasoline,3.5L V6,Automatic,None reported,Yes,37800
+Toyota,Camry,2023,13340,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,21300
+Mercedes-Benz,E-Class,2023,5887,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,49200
+Jeep,Grand Cherokee,2013,120578,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,9700
+Audi,A4,2014,63526,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17500
+Hyundai,Santa Fe,2021,38096,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,17800
+Ford,Escape,2018,98196,Gasoline,3.5L V6,Automatic,None reported,Yes,15000
+Subaru,Forester,2016,91214,Gasoline,3.5L V6,CVT,None reported,Yes,12500
+Nissan,Rogue,2020,39728,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,14800
+Chevrolet,Silverado,2015,92916,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,9900
+Toyota,Highlander,2014,133600,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,7600
+Porsche,Macan,2023,2678,Gasoline,3.5L V6,CVT,None reported,Yes,93000
+Chevrolet,Camaro,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,32500
+Subaru,Impreza,2013,155075,Gasoline,2.5L I4,Automatic,None reported,Yes,7100
+Honda,Pilot,2018,91760,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,10800
+Audi,A6,2018,72239,Gasoline,3.5L V6,Automatic,None reported,Yes,23600
+Hyundai,Tucson,2013,141761,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,6100
+Chevrolet,Silverado,2014,77669,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,9800
+Chevrolet,Camaro,2019,39585,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,17100
+Nissan,Altima,2013,127737,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,7000
+Porsche,Macan,2021,20517,Gasoline,5.0L V8,Automatic,None reported,Yes,76000
+Audi,A6,2015,59763,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,19500
+Jeep,Wrangler,2014,47376,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13800
+Nissan,Altima,2018,73016,Gasoline,3.5L V6,Automatic,None reported,Yes,12500
+Nissan,Sentra,2015,100219,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,5400
+Audi,A6,2017,102784,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,15800
+Honda,Accord,2018,41905,Gasoline,2.5L I4,Automatic,None reported,Yes,14700
+BMW,5 Series,2022,26166,Gasoline,3.5L V6,Automatic,None reported,Yes,46900
+Ford,F-150,2018,29726,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,22800
+Jeep,Cherokee,2015,135763,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,12800
+Hyundai,Santa Fe,2015,163937,Gasoline,5.0L V8,Automatic,None reported,Yes,7200
+Tesla,Model S,2012,178871,Electric,Single Electric Motor,Automatic,None reported,Yes,14000
+Porsche,Macan,2020,35699,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,57900
+Hyundai,Elantra,2017,112602,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,7600
+Hyundai,Tucson,2021,34466,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,16200
+Tesla,Model 3,2014,149060,Electric,Single Electric Motor,Automatic,None reported,Yes,13500
+Nissan,Altima,2016,96984,Gasoline,2.5L I4,Manual,None reported,Yes,9300
+Hyundai,Santa Fe,2021,39105,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,15600
+Toyota,RAV4,2020,26981,Gasoline,2.5L I4,Automatic,None reported,Yes,19900
+Honda,Civic,2015,63669,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,7000
+Tesla,Model S,2022,39309,Electric,Single Electric Motor,Automatic,None reported,Yes,44300
+Hyundai,Elantra,2021,29768,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,14000
+Jeep,Cherokee,2016,111020,Gasoline,5.0L V8,Manual,None reported,Yes,14700
+BMW,X3,2017,50498,Diesel,3.0L V6 Turbo Diesel,Automatic,At least 1 accident or damage reported,No,19200
+Nissan,Sentra,2021,40730,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,14800
+Hyundai,Elantra,2020,40422,Gasoline,2.5L I4,Automatic,None reported,Yes,12000
+Subaru,Outback,2018,79419,Gasoline,3.5L V6,CVT,None reported,Yes,14000
+Lexus,ES 350,2021,16298,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,33700
+BMW,X5,2022,14806,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,43300
+Nissan,Sentra,2015,113017,Gasoline,2.5L I4,Automatic,None reported,Yes,6900
+Audi,Q5,2014,185335,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,8500
+Chevrolet,Malibu,2021,43444,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,16000
+Jeep,Cherokee,2021,44564,Gasoline,5.0L V8,Automatic,None reported,Yes,27200
+Audi,A4,2019,56439,Gasoline,2.5L I4,CVT,None reported,Yes,28000
+Honda,HR-V,2019,41301,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,17300
+Mercedes-Benz,GLC,2014,132940,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,14500
+Porsche,Cayenne,2023,12976,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,60800
+Honda,HR-V,2022,15652,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,18600
+Ford,Explorer,2020,35011,Gasoline,2.5L I4,Automatic,None reported,Yes,19900
+Lexus,IS 300,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,52800
+Tesla,Model S,2016,84821,Electric,Dual Electric Motor,Automatic,None reported,Yes,30100
+Mercedes-Benz,S-Class,2019,67057,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,43000
+Lexus,NX 300,2023,9731,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,43100
+Lexus,RX 350,2012,114356,Gasoline,5.0L V8,Automatic,None reported,Yes,13500
+Lexus,IS 300,2014,128503,Gasoline,3.5L V6,Automatic,None reported,Yes,15000
+Audi,A4,2014,150792,Gasoline,2.5L I4,Automatic,None reported,Yes,14200
+Mercedes-Benz,E-Class,2022,24277,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,43500
+Audi,Q7,2016,97488,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,16800
+BMW,5 Series,2022,23904,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,39300
+Honda,CR-V,2016,51380,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,8000
+Nissan,Altima,2014,108192,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,No,5700
+Audi,S5,2020,53385,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,29600
+Tesla,Model Y,2022,24353,Electric,Dual Electric Motor,Automatic,None reported,Yes,42100
+Ford,Mustang,2023,11855,Gasoline,5.0L V8,Automatic,None reported,Yes,34300
+Jeep,Cherokee,2015,39630,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,11800
+Subaru,Impreza,2021,31188,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19700
+Chevrolet,Malibu,2015,102388,Gasoline,5.0L V8,Manual,None reported,Yes,11700
+Subaru,Forester,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,33300
+Tesla,Model Y,2013,137372,Electric,Single Electric Motor,Automatic,None reported,Yes,11200
+BMW,M3,2018,70019,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,32100
+Mercedes-Benz,GLE,2017,70327,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,19200
+Audi,S5,2019,51604,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,27600
+Hyundai,Tucson,2013,158769,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,6400
+Nissan,Pathfinder,2017,79489,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,7800
+Porsche,Cayenne,2023,22641,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,67500
+Ford,Explorer,2018,60458,Diesel,2.0L I4 Turbo Diesel,Manual,None reported,Yes,15400
+Lexus,IS 300,2016,53129,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,16700
+Nissan,Altima,2019,66963,Gasoline,5.0L V8,Manual,At least 1 accident or damage reported,No,11700
+Porsche,911,2018,70631,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,58800
+Honda,Accord,2013,177809,Gasoline,2.5L I4,Manual,None reported,Yes,5700
+Hyundai,Sonata,2021,33230,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,18200
+Honda,Accord,2016,92094,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,10200
+Audi,A4,2019,69168,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,20000
+Toyota,Highlander,2021,40993,Gasoline,3.5L V6,Manual,None reported,Yes,21600
+Audi,A6,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,40700
+Honda,CR-V,2017,93383,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,8200
+Toyota,RAV4,2016,97443,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10100
+Porsche,Macan,2016,99616,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,32200
+Ford,F-150,2017,95177,Gasoline,2.5L I4,Automatic,None reported,Yes,16800
+Porsche,Panamera,2015,136881,Diesel,2.0L I4 Turbo Diesel,Manual,At least 1 accident or damage reported,Yes,27200
+Jeep,Cherokee,2021,43366,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,28800
+Hyundai,Elantra,2019,63604,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10300
+Toyota,RAV4,2017,113179,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,11300
+Porsche,Cayenne,2017,35584,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,41300
+Honda,CR-V,2014,166211,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,7100
+Mercedes-Benz,C-Class,2019,52709,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,30800
+BMW,X5,2014,94458,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,15400
+Honda,Civic,2013,192413,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,5300
+Tesla,Model S,2014,96913,Electric,Dual Electric Motor,Automatic,None reported,Yes,23800
+Lexus,ES 350,2020,20829,Gasoline,5.0L V8,Automatic,None reported,Yes,38600
+Ford,Explorer,2020,39171,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,21800
+Toyota,Tacoma,2019,57508,Gasoline,2.5L I4,Automatic,None reported,Yes,15200
+BMW,M3,2015,128512,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,24000
+Ford,F-150,2023,9921,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,31500
+Audi,A4,2016,116642,Gasoline,3.5L V6,Automatic,None reported,Yes,20700
+Nissan,Altima,2017,55442,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,12600
+Porsche,Panamera,2019,45572,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,54300
+Lexus,IS 300,2014,141106,Gasoline,2.5L I4,CVT,None reported,Yes,13500
+Mercedes-Benz,C-Class,2018,76059,Gasoline,2.5L I4,Automatic,None reported,Yes,26600
+Jeep,Wrangler,2023,10926,Gasoline,2.5L I4,Automatic,None reported,Yes,30000
+BMW,3 Series,2024,5404,Diesel,3.0L V6 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,47800
+Ford,F-150,2022,14565,Gasoline,2.5L I4,Automatic,None reported,Yes,37800
+Nissan,Rogue,2016,82474,Gasoline,5.0L V8,Automatic,None reported,Yes,10800
+Ford,Escape,2018,68611,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,14500
+Lexus,ES 350,2021,51233,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,27300
+Honda,Pilot,2013,131414,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,6100
+Mercedes-Benz,E-Class,2022,19136,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,37200
+Jeep,Wrangler,2014,117699,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10200
+Audi,Q5,2022,22313,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,42500
+Porsche,Panamera,2019,54183,Gasoline,2.5L I4,Automatic,None reported,Yes,64000
+Toyota,Prius,2016,126261,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,7400
+Mercedes-Benz,GLC,2015,104732,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,18700
+Porsche,Macan,2017,69415,Gasoline,2.5L I4,Automatic,None reported,Yes,35600
+Honda,CR-V,2022,25786,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,24100
+Chevrolet,Tahoe,2023,6846,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,22300
+Audi,A6,2020,30294,Gasoline,3.0L V6 Turbo,Dual-Clutch,None reported,Yes,32700
+Subaru,Impreza,2015,109508,Gasoline,2.5L I4,Automatic,None reported,Yes,7800
+Jeep,Cherokee,2017,89817,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,12200
+Jeep,Wrangler,2012,156743,Gasoline,5.0L V8,Manual,At least 1 accident or damage reported,No,5800
+Chevrolet,Silverado,2020,20675,Gasoline,3.0L V6 Turbo,Dual-Clutch,At least 1 accident or damage reported,Yes,16400
+Tesla,Model 3,2020,52839,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,Yes,26300
+Audi,A4,2018,60022,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,24300
+Audi,Q5,2022,24693,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,41000
+Hyundai,Santa Fe,2019,68749,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,13400
+Subaru,Impreza,2020,45041,Gasoline,2.5L I4,Automatic,None reported,Yes,19300
+Hyundai,Elantra,2022,26390,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,19100
+Tesla,Model Y,2017,85664,Electric,Single Electric Motor,Automatic,None reported,Yes,19300
+Lexus,RX 350,2017,37637,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,21200
+Lexus,IS 300,2024,3116,Gasoline,2.5L I4,Automatic,None reported,Yes,45400
+Nissan,Sentra,2021,33174,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,No,10500
+Ford,Edge,2016,125748,Gasoline,5.0L V8,Automatic,None reported,Yes,11400
+Jeep,Grand Cherokee,2016,76371,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19200
+Ford,F-150,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,44800
+Jeep,Cherokee,2019,66454,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,18500
+Audi,Q7,2021,32899,Gasoline,3.5L V6,Automatic,None reported,Yes,37200
+Toyota,Tacoma,2017,71595,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,12800
+Lexus,IS 300,2023,18204,Gasoline,2.5L I4,Automatic,None reported,Yes,40900
+Audi,Q7,2018,86708,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20100
+Tesla,Model 3,2016,81866,Electric,Single Electric Motor,Automatic,None reported,Yes,18400
+Chevrolet,Malibu,2019,66426,Gasoline,5.0L V8,Manual,At least 1 accident or damage reported,Yes,15700
+Mercedes-Benz,E-Class,2022,25488,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,46000
+Toyota,Prius,2020,41280,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,18300
+Hyundai,Santa Fe,2015,121257,Gasoline,3.5L V6,Automatic,None reported,Yes,8700
+Honda,CR-V,2022,29985,Gasoline,2.5L I4,Automatic,None reported,Yes,20000
+Subaru,Impreza,2017,74312,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,12300
+Tesla,Model Y,2014,91706,Electric,Single Electric Motor,Automatic,None reported,Yes,14000
+BMW,3 Series,2023,11660,Diesel,2.0L I4 Turbo Diesel,Dual-Clutch,None reported,Yes,47300
+Porsche,911,2022,36266,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,76900
+Ford,Escape,2018,69873,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,16000
+Jeep,Cherokee,2019,62942,Gasoline,2.5L I4,Automatic,None reported,Yes,19100
+Lexus,NX 300,2019,66430,Gasoline,5.0L V8,Automatic,None reported,Yes,27800
+Honda,HR-V,2017,84480,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,8900
+Mercedes-Benz,GLC,2014,52069,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,16200
+Subaru,Forester,2016,60326,Gasoline,2.5L I4,CVT,At least 1 accident or damage reported,Yes,8500
+Nissan,Sentra,2020,37665,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13000
+BMW,5 Series,2016,92473,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,20800
+Jeep,Grand Cherokee,2017,90941,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17900
+Audi,S5,2020,66770,Gasoline,3.5L V6,Automatic,None reported,Yes,32900
+Audi,Q7,2024,2500,Gasoline,3.5L V6,Manual,None reported,Yes,55200
+Ford,Edge,2020,58402,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,18400
+Honda,CR-V,2021,42107,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19700
+Subaru,Impreza,2021,27079,Gasoline,3.5L V6,CVT,None reported,Yes,22600
+Chevrolet,Tahoe,2019,43885,Gasoline,3.5L V6,Automatic,None reported,Yes,19400
+Honda,Accord,2021,22492,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,18100
+Lexus,RX 350,2020,31027,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,33200
+Hyundai,Tucson,2021,36013,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,15900
+Porsche,Cayenne,2014,92366,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,26500
+Chevrolet,Camaro,2016,119274,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,9900
+Porsche,911,2013,155597,Gasoline,3.5L V6,CVT,At least 1 accident or damage reported,No,22000
+Ford,Explorer,2021,38631,Gasoline,2.0L I4 Turbo,Manual,At least 1 accident or damage reported,Yes,16800
+Ford,Explorer,2019,90954,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,15100
+Audi,S5,2023,12246,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,34100
+Porsche,911,2021,42038,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,57000
+BMW,M3,2021,42728,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,32800
+Ford,Explorer,2021,32717,Gasoline,3.5L V6,Dual-Clutch,At least 1 accident or damage reported,No,17300
+Nissan,Altima,2017,72525,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,10000
+Tesla,Model S,2015,151299,Electric,Dual Electric Motor,Automatic,None reported,Yes,21500
+Ford,Edge,2015,123635,Gasoline,5.0L V8,CVT,None reported,Yes,12200
+Tesla,Model Y,2015,133767,Electric,Dual Electric Motor,Automatic,None reported,Yes,15400
+Porsche,911,2018,71611,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,57700
+Toyota,Prius,2023,22350,Gasoline,3.5L V6,Automatic,None reported,Yes,23700
+Mercedes-Benz,E-Class,2014,90322,Gasoline,3.5L V6,Automatic,None reported,Yes,20300
+Chevrolet,Camaro,2015,84981,Gasoline,5.0L V8,Automatic,None reported,Yes,14000
+Toyota,Highlander,2021,47860,Gasoline,5.0L V8,Manual,None reported,Yes,20600
+Nissan,Rogue,2020,35976,Gasoline,5.0L V8,CVT,None reported,Yes,19300
+Mercedes-Benz,GLE,2019,35559,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,30500
+Jeep,Cherokee,2023,8816,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,37500
+Mercedes-Benz,GLE,2016,52281,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,19700
+Subaru,Outback,2015,158484,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,8200
+Hyundai,Santa Fe,2016,79602,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,8700
+Hyundai,Sonata,2024,2500,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,18200
+Tesla,Model 3,2021,38054,Electric,Single Electric Motor,Automatic,None reported,Yes,34900
+Porsche,Macan,2023,15266,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,85500
+Porsche,Macan,2021,27827,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,61600
+Ford,Explorer,2012,96902,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,7400
+Nissan,Altima,2013,80969,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,5900
+BMW,X5,2022,30350,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,32600
+Mercedes-Benz,GLE,2022,24177,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,31700
+Ford,F-150,2020,34759,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,27300
+Mercedes-Benz,GLE,2020,32347,Gasoline,3.5L V6,Automatic,None reported,Yes,38000
+Chevrolet,Equinox,2015,142205,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,9500
+Porsche,Macan,2024,2500,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,77400
+Subaru,Crosstrek,2019,61505,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,15800
+Jeep,Wrangler,2018,78043,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,16500
+Nissan,Pathfinder,2022,33330,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,13700
+Mercedes-Benz,GLE,2022,18031,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,43200
+Honda,Pilot,2019,64064,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,12700
+Hyundai,Sonata,2019,75495,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,14400
+Tesla,Model Y,2016,84397,Electric,Dual Electric Motor,Automatic,None reported,Yes,22800
+Toyota,RAV4,2014,86382,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,9700
+Tesla,Model S,2020,19603,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,Yes,30400
+Mercedes-Benz,S-Class,2017,68598,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,32700
+Porsche,911,2022,24007,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,88500
+Ford,Explorer,2022,23853,Gasoline,5.0L V8,Manual,None reported,Yes,28600
+Audi,Q7,2014,74894,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,16300
+Toyota,Highlander,2021,37573,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19200
+Tesla,Model S,2017,109911,Electric,Dual Electric Motor,Automatic,None reported,Yes,27800
+Audi,S5,2021,27545,Gasoline,2.5L I4,Automatic,None reported,Yes,35500
+Honda,Pilot,2022,17821,Gasoline,3.5L V6,CVT,At least 1 accident or damage reported,No,16100
+Hyundai,Tucson,2019,91626,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,12500
+Ford,F-150,2015,128013,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,14700
+Audi,Q5,2017,25227,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,26400
+Jeep,Wrangler,2013,109448,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,10400
+Tesla,Model S,2016,106114,Electric,Single Electric Motor,Automatic,None reported,Yes,22300
+Nissan,Altima,2015,131411,Gasoline,1.5L I4 Turbo,Manual,At least 1 accident or damage reported,Yes,6000
+Toyota,Corolla,2015,118679,Gasoline,5.0L V8,Automatic,None reported,Yes,9100
+Audi,Q7,2021,29646,Gasoline,3.5L V6,Automatic,None reported,Yes,35000
+Hyundai,Sonata,2015,53430,Gasoline,3.5L V6,Manual,None reported,Yes,8900
+Nissan,Sentra,2015,66913,Gasoline,2.5L I4,Automatic,None reported,Yes,8100
+Tesla,Model Y,2020,45082,Electric,Dual Electric Motor,Automatic,None reported,Yes,34000
+Chevrolet,Camaro,2015,130878,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,8800
+Porsche,Macan,2023,8197,Gasoline,3.5L V6,Manual,None reported,Yes,87000
+Audi,S5,2021,29688,Gasoline,3.5L V6,Automatic,None reported,Yes,35800
+Nissan,Pathfinder,2018,111189,Gasoline,5.0L V8,CVT,None reported,Yes,12300
+Tesla,Model Y,2024,2500,Electric,Single Electric Motor,Automatic,None reported,Yes,46000
+Porsche,911,2018,113496,Gasoline,2.5L I4,Automatic,None reported,Yes,49400
+Audi,A4,2022,31722,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,42200
+Tesla,Model Y,2022,25597,Electric,Dual Electric Motor,Automatic,None reported,Yes,42000
+Tesla,Model Y,2024,3203,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,Yes,38100
+Lexus,ES 350,2014,91293,Gasoline,5.0L V8,Automatic,None reported,Yes,16800
+Toyota,Tacoma,2019,71242,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,14500
+Ford,Edge,2020,35172,Gasoline,5.0L V8,CVT,None reported,Yes,25700
+Subaru,Impreza,2012,173719,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,6900
+Porsche,Cayenne,2016,91511,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,33400
+Tesla,Model S,2019,87468,Electric,Dual Electric Motor,Automatic,None reported,Yes,35300
+BMW,3 Series,2016,47584,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,23000
+Audi,Q7,2014,158227,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,13600
+Chevrolet,Equinox,2020,28911,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,17900
+Nissan,Pathfinder,2019,63453,Gasoline,5.0L V8,Automatic,None reported,Yes,14100
+Subaru,Outback,2022,20600,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,23100
+Nissan,Sentra,2020,65558,Gasoline,3.5L V6,Manual,None reported,Yes,12800
+Audi,Q7,2020,40704,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,21100
+Chevrolet,Malibu,2019,58886,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,12600
+Hyundai,Tucson,2023,3364,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,24700
+Audi,Q5,2018,60647,Gasoline,3.5L V6,CVT,None reported,Yes,24200
+Hyundai,Sonata,2019,58348,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,12300
+Mercedes-Benz,S-Class,2020,57477,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,45100
+BMW,X3,2020,34620,Gasoline,2.5L I4,Automatic,None reported,Yes,32800
+Subaru,Forester,2020,40842,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,17400
+Subaru,Impreza,2019,65796,Gasoline,2.5L I4,Automatic,None reported,Yes,15200
+Hyundai,Tucson,2017,74488,Gasoline,3.5L V6,Manual,None reported,Yes,11200
+Jeep,Cherokee,2020,59236,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,17500
+Mercedes-Benz,C-Class,2014,134873,Gasoline,3.5L V6,Automatic,None reported,Yes,16800
+Lexus,IS 300,2012,130946,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,12800
+Porsche,Macan,2017,107513,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,33700
+Mercedes-Benz,C-Class,2012,160075,Gasoline,2.5L I4,Automatic,None reported,Yes,12500
+Subaru,Outback,2023,15244,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,21900
+Hyundai,Tucson,2019,64437,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,14000
+Hyundai,Sonata,2022,17346,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,16600
+Porsche,Macan,2012,132680,Gasoline,3.5L V6,CVT,None reported,Yes,20300
+Subaru,Crosstrek,2022,22041,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,22700
+Honda,HR-V,2019,53296,Gasoline,5.0L V8,Automatic,None reported,Yes,16000
+Tesla,Model 3,2013,169772,Electric,Dual Electric Motor,Automatic,None reported,Yes,11900
+Toyota,Prius,2020,37043,Gasoline,3.5L V6,Automatic,None reported,Yes,20600
+BMW,5 Series,2012,67051,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,13800
+Honda,Pilot,2020,42427,Gasoline,2.5L I4,Automatic,None reported,Yes,16400
+Subaru,Impreza,2017,114833,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,11000
+Lexus,ES 350,2017,86721,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20400
+Nissan,Sentra,2014,157074,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,4500
+Lexus,IS 300,2016,74305,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,20300
+Lexus,ES 350,2019,48851,Gasoline,2.5L I4,Manual,None reported,Yes,27300
+Audi,Q5,2020,43847,Gasoline,5.0L V8,Automatic,None reported,Yes,32300
+Toyota,Camry,2023,11922,Gasoline,5.0L V8,Manual,At least 1 accident or damage reported,Yes,23500
+Tesla,Model 3,2023,3465,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,42800
+Ford,Escape,2014,126113,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,9500
+Toyota,Highlander,2017,61770,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,14400
+Ford,Explorer,2023,6102,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,30700
+Toyota,RAV4,2018,61044,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,12300
+Tesla,Model 3,2020,21867,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,No,23400
+Mercedes-Benz,GLE,2021,31669,Gasoline,5.0L V8,Manual,None reported,Yes,47500
+Nissan,Pathfinder,2020,56485,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,15900
+Porsche,Panamera,2020,43327,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,67100
+BMW,3 Series,2023,12352,Gasoline,2.5L I4,CVT,At least 1 accident or damage reported,Yes,36900
+Ford,Escape,2014,68599,Gasoline,5.0L V8,Manual,None reported,Yes,11800
+Mercedes-Benz,E-Class,2020,59763,Gasoline,1.5L I4 Turbo,Dual-Clutch,At least 1 accident or damage reported,Yes,26000
+Subaru,Crosstrek,2016,89512,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,8400
+Tesla,Model S,2019,54216,Electric,Dual Electric Motor,Automatic,None reported,Yes,38800
+Ford,Edge,2017,105501,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,13900
+Chevrolet,Tahoe,2015,93702,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,10000
+Honda,Pilot,2023,7944,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,21600
+Ford,Mustang,2021,30491,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,24100
+Audi,A6,2019,70897,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,23000
+Mercedes-Benz,GLE,2017,78124,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,16200
+Hyundai,Tucson,2014,94469,Gasoline,2.5L I4,Automatic,None reported,Yes,8000
+Mercedes-Benz,S-Class,2021,24412,Gasoline,5.0L V8,Manual,None reported,Yes,58600
+Tesla,Model 3,2012,139753,Electric,Single Electric Motor,Automatic,None reported,Yes,11100
+Lexus,NX 300,2019,70379,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,No,18500
+Toyota,Prius,2016,76927,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,10600
+Hyundai,Tucson,2020,28315,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,13300
+Chevrolet,Camaro,2023,12405,Gasoline,5.0L V8,Automatic,None reported,Yes,32300
+Jeep,Grand Cherokee,2020,35422,Gasoline,5.0L V8,Automatic,None reported,Yes,35700
+Honda,CR-V,2024,2500,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,21300
+Tesla,Model 3,2022,23371,Electric,Dual Electric Motor,Automatic,None reported,Yes,41100
+Ford,Escape,2017,94644,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,13000
+Hyundai,Tucson,2019,38960,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,11600
+Subaru,Impreza,2017,48223,Gasoline,3.5L V6,Automatic,None reported,Yes,14900
+Jeep,Cherokee,2022,8904,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,28200
+Jeep,Wrangler,2017,67276,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,16000
+Nissan,Pathfinder,2020,28710,Gasoline,3.5L V6,Automatic,None reported,Yes,16700
+Subaru,Crosstrek,2017,73814,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,13200
+Tesla,Model 3,2019,50107,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,24000
+Porsche,Cayenne,2013,178036,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,15300
+Nissan,Sentra,2019,84529,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,7700
+Audi,S5,2018,73128,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,20400
+Honda,Accord,2016,139478,Gasoline,5.0L V8,Automatic,None reported,Yes,10300
+Tesla,Model Y,2021,41580,Electric,Dual Electric Motor,Automatic,None reported,Yes,37800
+Nissan,Pathfinder,2023,8536,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,22600
+Hyundai,Sonata,2015,79118,Gasoline,3.5L V6,CVT,None reported,Yes,9400
+Chevrolet,Tahoe,2018,71976,Gasoline,3.5L V6,CVT,None reported,Yes,15900
+Toyota,Tacoma,2018,71035,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,15000
+Lexus,NX 300,2017,67671,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,19500
+Chevrolet,Malibu,2018,81434,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,11300
+Subaru,Forester,2024,2500,Gasoline,3.5L V6,Automatic,None reported,Yes,30500
+Honda,Civic,2020,59896,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,15600
+Audi,A4,2018,76789,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,23900
+Honda,Pilot,2012,129907,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,4800
+Mercedes-Benz,GLE,2022,24435,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,42900
+Jeep,Wrangler,2021,31826,Gasoline,5.0L V8,Automatic,None reported,Yes,28200
+Subaru,Impreza,2018,70161,Gasoline,2.5L I4,Automatic,None reported,Yes,12900
+Chevrolet,Tahoe,2020,64228,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,18800
+Chevrolet,Silverado,2021,3766,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,23100
+Lexus,ES 350,2015,126902,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,13900
+Honda,Accord,2013,148311,Gasoline,3.5L V6,CVT,None reported,Yes,7500
+Chevrolet,Camaro,2016,113718,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,11500
+Subaru,Forester,2015,111737,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,9400
+Jeep,Wrangler,2017,88082,Gasoline,2.5L I4,Automatic,None reported,Yes,14800
+Hyundai,Santa Fe,2021,24560,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,14000
+Chevrolet,Equinox,2022,23783,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,27200
+Hyundai,Tucson,2022,15674,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,19700
+Mercedes-Benz,E-Class,2017,116332,Gasoline,5.0L V8,Automatic,None reported,Yes,24500
+Jeep,Wrangler,2022,16771,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,23000
+Jeep,Cherokee,2021,30317,Diesel,3.0L V6 Turbo Diesel,Manual,None reported,Yes,24500
+Tesla,Model 3,2018,71930,Electric,Dual Electric Motor,Automatic,None reported,Yes,27200
+BMW,3 Series,2023,11644,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,49500
+Tesla,Model 3,2015,8669,Electric,Single Electric Motor,Automatic,None reported,Yes,21700
+Tesla,Model S,2022,15925,Electric,Dual Electric Motor,Automatic,None reported,Yes,57200
+BMW,3 Series,2018,60737,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,26500
+Hyundai,Sonata,2019,58286,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,11200
+BMW,3 Series,2023,8615,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,46200
+Nissan,Rogue,2018,109123,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,10800
+Porsche,Macan,2017,59255,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,31400
+BMW,X3,2023,11804,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,41400
+Lexus,ES 350,2016,81330,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,18800
+Mercedes-Benz,GLC,2024,2500,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,56400
+Nissan,Sentra,2020,39480,Gasoline,5.0L V8,Automatic,None reported,Yes,15300
+Lexus,IS 300,2019,32431,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,26100
+Toyota,RAV4,2024,2500,Gasoline,5.0L V8,Automatic,None reported,Yes,29600
+Lexus,IS 300,2019,64730,Gasoline,3.5L V6,CVT,At least 1 accident or damage reported,No,20300
+Audi,Q7,2017,89003,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,22000
+Ford,Explorer,2019,45462,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,20000
+Ford,Edge,2016,66290,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,13000
+BMW,5 Series,2018,79186,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,24000
+Porsche,Cayenne,2019,85315,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,31000
+Toyota,Tacoma,2013,227711,Gasoline,3.0L V6 Turbo,Manual,At least 1 accident or damage reported,Yes,5000
+Chevrolet,Camaro,2021,40006,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,18400
+Chevrolet,Equinox,2019,39448,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,17700
+BMW,X3,2015,80983,Gasoline,5.0L V8,Automatic,None reported,Yes,19800
+Honda,Pilot,2019,87406,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,10800
+Honda,HR-V,2012,104576,Gasoline,5.0L V8,Automatic,None reported,Yes,8300
+Porsche,Cayenne,2023,11472,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,69800
+Mercedes-Benz,GLE,2016,64566,Gasoline,5.0L V8,Automatic,None reported,Yes,23900
+Tesla,Model S,2022,36586,Electric,Dual Electric Motor,Automatic,None reported,Yes,53200
+Porsche,911,2021,34622,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,73100
+Jeep,Cherokee,2017,111523,Gasoline,5.0L V8,Automatic,None reported,Yes,16000
+Lexus,ES 350,2016,94608,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19100
+BMW,X3,2021,42019,Gasoline,2.5L I4,Automatic,None reported,Yes,35400
+Toyota,Corolla,2019,44954,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,12100
+Subaru,Outback,2018,52390,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,12500
+Jeep,Grand Cherokee,2022,18639,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,42000
+Subaru,Forester,2023,5258,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,27900
+BMW,M3,2018,87347,Gasoline,2.5L I4,Automatic,None reported,Yes,29800
+Jeep,Grand Cherokee,2019,60893,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,27200
+Hyundai,Tucson,2022,10165,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,14400
+Mercedes-Benz,GLC,2015,121219,Gasoline,3.5L V6,Automatic,None reported,Yes,19300
+Hyundai,Santa Fe,2022,13749,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,18300
+Jeep,Cherokee,2019,84368,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,22000
+Jeep,Grand Cherokee,2017,95366,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,14700
+Audi,Q5,2018,45033,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,20600
+Toyota,Tacoma,2021,29258,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,20300
+Subaru,Forester,2019,52521,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,15100
+Mercedes-Benz,S-Class,2021,41337,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,37000
+Mercedes-Benz,E-Class,2018,48593,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,30900
+Audi,A6,2023,17423,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,50400
+Tesla,Model 3,2020,43081,Electric,Single Electric Motor,Automatic,None reported,Yes,28100
+Nissan,Rogue,2016,94976,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,7000
+Jeep,Grand Cherokee,2012,104136,Gasoline,5.0L V8,CVT,None reported,Yes,13000
+Lexus,IS 300,2020,48255,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,25300
+Ford,Explorer,2016,44023,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,13600
+Ford,Edge,2015,133594,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,11800
+Ford,Edge,2023,17909,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,26100
+Toyota,Tacoma,2020,34639,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17000
+Porsche,911,2021,21935,Gasoline,5.0L V8,Automatic,None reported,Yes,100800
+Toyota,Camry,2021,44871,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,21800
+Ford,Mustang,2020,52155,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20100
+Subaru,Forester,2018,77387,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,14700
+BMW,M3,2020,49481,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,47900
+Audi,A4,2017,101313,Gasoline,3.5L V6,CVT,None reported,Yes,20900
+Lexus,IS 300,2020,50030,Gasoline,5.0L V8,Automatic,None reported,Yes,35500
+Hyundai,Elantra,2018,98240,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,9200
+Nissan,Pathfinder,2018,57221,Gasoline,1.5L I4 Turbo,Dual-Clutch,None reported,Yes,12200
+Toyota,Tacoma,2024,2981,Gasoline,5.0L V8,Manual,At least 1 accident or damage reported,No,23200
+Mercedes-Benz,S-Class,2014,135610,Gasoline,2.5L I4,Automatic,None reported,Yes,21200
+Toyota,Tacoma,2023,11844,Gasoline,5.0L V8,Automatic,None reported,Yes,26600
+Lexus,IS 300,2021,23909,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,36900
+Honda,Civic,2015,66290,Gasoline,3.5L V6,Automatic,None reported,Yes,9200
+Ford,Mustang,2017,85277,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,14300
+Tesla,Model S,2017,108666,Electric,Single Electric Motor,Automatic,None reported,Yes,25000
+Porsche,Macan,2019,45781,Gasoline,2.5L I4,Automatic,None reported,Yes,52100
+Jeep,Grand Cherokee,2023,2500,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,47000
+Audi,Q7,2023,4498,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,41000
+Tesla,Model 3,2019,66526,Electric,Dual Electric Motor,Automatic,None reported,Yes,30600
+Mercedes-Benz,C-Class,2023,7570,Gasoline,5.0L V8,Automatic,None reported,Yes,60000
+Porsche,911,2017,83988,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,39800
+Chevrolet,Tahoe,2020,24855,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,22500
+Nissan,Pathfinder,2014,55804,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,7800
+Lexus,RX 350,2019,84877,Gasoline,5.0L V8,CVT,None reported,Yes,27100
+Ford,F-150,2019,57642,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,24900
+Porsche,Panamera,2012,172682,Gasoline,5.0L V8,Automatic,None reported,Yes,25400
+Jeep,Grand Cherokee,2016,52805,Gasoline,3.5L V6,Automatic,None reported,Yes,21100
+Porsche,911,2020,34984,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,66100
+Toyota,Corolla,2021,57626,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,14400
+Porsche,Panamera,2020,42196,Gasoline,2.5L I4,Automatic,None reported,Yes,73200
+Toyota,Camry,2022,13967,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,18500
+Nissan,Altima,2017,88411,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,7200
+Porsche,Macan,2019,75879,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,47900
+BMW,M3,2016,75298,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,25900
+Jeep,Cherokee,2014,129453,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,10400
+Honda,CR-V,2018,57314,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,11500
+Tesla,Model 3,2021,26864,Electric,Single Electric Motor,Automatic,None reported,Yes,33100
+Lexus,NX 300,2021,34312,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,41000
+Jeep,Cherokee,2022,23699,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,29300
+Jeep,Cherokee,2013,155803,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,8600
+Nissan,Rogue,2015,128551,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,7800
+Honda,Pilot,2016,69830,Gasoline,2.0L I4 Turbo,Manual,At least 1 accident or damage reported,Yes,9000
+Porsche,911,2021,35410,Gasoline,2.5L I4,Automatic,None reported,Yes,77400
+Tesla,Model S,2016,112756,Electric,Single Electric Motor,Automatic,None reported,Yes,24200
+Jeep,Grand Cherokee,2014,149334,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,13600
+Lexus,NX 300,2021,50018,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,40000
+Hyundai,Sonata,2019,49544,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,14000
+Nissan,Pathfinder,2016,119326,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,7100
+Ford,Edge,2014,136054,Gasoline,5.0L V8,CVT,None reported,Yes,10200
+Chevrolet,Silverado,2024,2500,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,23800
+Mercedes-Benz,E-Class,2024,3893,Gasoline,5.0L V8,Automatic,None reported,Yes,66200
+Honda,Civic,2019,92146,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,9900
+Ford,Escape,2019,47039,Gasoline,5.0L V8,Manual,None reported,Yes,22700
+Jeep,Cherokee,2022,21045,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,26900
+Subaru,Impreza,2016,83014,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,10600
+Audi,A4,2013,190216,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,No,7800
+Toyota,RAV4,2020,27894,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,17800
+Audi,Q5,2019,73157,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,19200
+Ford,F-150,2021,25845,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,29500
+Chevrolet,Tahoe,2014,79963,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,9100
+Nissan,Pathfinder,2020,37200,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,15900
+Toyota,Camry,2024,2500,Gasoline,2.5L I4,Automatic,None reported,Yes,28600
+Nissan,Altima,2012,134999,Gasoline,3.5L V6,Automatic,None reported,Yes,6100
+Tesla,Model Y,2022,21735,Electric,Single Electric Motor,Automatic,None reported,Yes,34400
+Toyota,RAV4,2022,10475,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,20600
+Chevrolet,Silverado,2021,21267,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,23400
+Tesla,Model S,2017,54316,Electric,Dual Electric Motor,Automatic,None reported,Yes,31700
+Lexus,IS 300,2014,90173,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,16000
+Ford,Explorer,2018,58724,Gasoline,2.5L I4,Automatic,None reported,Yes,15100
+Mercedes-Benz,GLE,2017,66333,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,18600
+Honda,Accord,2015,124736,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,8900
+Mercedes-Benz,GLE,2012,67410,Gasoline,2.5L I4,Automatic,None reported,Yes,16200
+Hyundai,Elantra,2023,7631,Gasoline,2.5L I4,Automatic,None reported,Yes,19000
+Mercedes-Benz,E-Class,2020,29285,Gasoline,5.0L V8,Manual,None reported,Yes,41300
+Lexus,IS 300,2021,28497,Gasoline,3.5L V6,Automatic,None reported,Yes,39800
+Tesla,Model 3,2012,71509,Electric,Single Electric Motor,Automatic,None reported,Yes,13200
+Honda,Accord,2023,2500,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,22200
+Toyota,Highlander,2022,21359,Gasoline,2.5L I4,Automatic,None reported,Yes,22700
+Porsche,Panamera,2021,46550,Gasoline,2.5L I4,Automatic,None reported,Yes,81200
+Hyundai,Tucson,2024,3228,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,26500
+Porsche,Cayenne,2021,36915,Gasoline,2.5L I4,Automatic,None reported,Yes,62000
+Audi,S5,2022,22167,Gasoline,5.0L V8,Automatic,None reported,Yes,43600
+BMW,X5,2018,61266,Gasoline,2.5L I4,Automatic,None reported,Yes,21200
+Ford,Escape,2020,23775,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,17300
+Mercedes-Benz,GLE,2016,71200,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,17900
+Audi,Q7,2019,73387,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,21200
+Porsche,Panamera,2019,70437,Gasoline,2.5L I4,Automatic,None reported,Yes,63900
+Honda,HR-V,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,27100
+Tesla,Model S,2016,115140,Electric,Dual Electric Motor,Automatic,None reported,Yes,24600
+Lexus,RX 350,2013,137222,Gasoline,5.0L V8,Automatic,None reported,Yes,15400
+Hyundai,Sonata,2019,61121,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,14900
+Jeep,Grand Cherokee,2018,84455,Gasoline,5.0L V8,Automatic,None reported,Yes,22900
+Honda,Pilot,2019,85583,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,12700
+Ford,Explorer,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,33100
+Mercedes-Benz,E-Class,2020,62055,Diesel,3.0L V6 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,28800
+Jeep,Grand Cherokee,2020,27834,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,29400
+Hyundai,Santa Fe,2024,2500,Gasoline,3.5L V6,Automatic,None reported,Yes,22600
+Chevrolet,Camaro,2020,40668,Gasoline,3.5L V6,Automatic,None reported,Yes,19800
+Porsche,Panamera,2024,2500,Gasoline,3.5L V6,Automatic,None reported,Yes,124500
+Toyota,RAV4,2022,20451,Gasoline,5.0L V8,Automatic,None reported,Yes,26200
+Jeep,Cherokee,2018,50755,Gasoline,3.5L V6,CVT,None reported,Yes,18300
+Lexus,RX 350,2022,19854,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,No,25700
+Jeep,Wrangler,2024,2500,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,29200
+Ford,Edge,2017,87819,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,12900
+Tesla,Model S,2015,58357,Electric,Single Electric Motor,Automatic,None reported,Yes,24900
+Jeep,Grand Cherokee,2021,38318,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,31100
+Honda,Civic,2014,132013,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,6400
+Mercedes-Benz,E-Class,2019,39588,Gasoline,3.5L V6,Automatic,None reported,Yes,35100
+Subaru,Forester,2012,115793,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,7600
+Audi,Q7,2021,29091,Gasoline,3.0L V6 Turbo,Dual-Clutch,At least 1 accident or damage reported,Yes,30700
+Jeep,Cherokee,2019,74289,Gasoline,3.5L V6,Automatic,None reported,Yes,18700
+Subaru,Forester,2022,35150,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,22200
+Toyota,Highlander,2017,115346,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,8800
+Mercedes-Benz,GLE,2018,94677,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,23400
+Honda,Accord,2018,99230,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,No,8700
+Mercedes-Benz,GLC,2023,15262,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,39000
+Jeep,Wrangler,2018,55875,Gasoline,3.5L V6,CVT,None reported,Yes,18200
+Hyundai,Tucson,2021,26011,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,18000
+Honda,Pilot,2019,67268,Gasoline,5.0L V8,Automatic,None reported,Yes,16300
+Subaru,Impreza,2022,22939,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,19800
+Honda,CR-V,2020,47156,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,18200
+Jeep,Cherokee,2019,79374,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,14800
+Toyota,RAV4,2024,4807,Gasoline,5.0L V8,Automatic,None reported,Yes,31800
+Honda,Accord,2022,24329,Gasoline,5.0L V8,Automatic,None reported,Yes,21800
+BMW,M3,2022,18012,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,49400
+Nissan,Sentra,2017,79195,Gasoline,2.5L I4,Automatic,None reported,Yes,8500
+Nissan,Pathfinder,2016,102987,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,9500
+BMW,X5,2020,38754,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,32300
+Ford,Escape,2020,46541,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,17800
+Toyota,Prius,2015,63071,Gasoline,3.5L V6,Automatic,None reported,Yes,11200
+BMW,X5,2015,154345,Gasoline,3.5L V6,Automatic,None reported,Yes,15100
+Chevrolet,Tahoe,2014,93653,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,9500
+Subaru,Forester,2020,42677,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,15100
+Mercedes-Benz,C-Class,2017,60473,Gasoline,3.5L V6,Manual,None reported,Yes,27000
+Honda,HR-V,2022,25140,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,15900
+Audi,Q5,2021,38519,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,36200
+Hyundai,Elantra,2021,26382,Gasoline,2.5L I4,Automatic,None reported,Yes,14000
+Lexus,IS 300,2021,25283,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,41200
+Lexus,NX 300,2018,94281,Gasoline,3.5L V6,Automatic,None reported,Yes,23500
+Chevrolet,Camaro,2014,79464,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,8400
+Tesla,Model 3,2016,63387,Electric,Single Electric Motor,Automatic,None reported,Yes,19200
+Audi,Q7,2020,55249,Gasoline,3.5L V6,Automatic,None reported,Yes,30500
+Ford,Explorer,2020,37683,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,21400
+Tesla,Model 3,2022,15965,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,33200
+Audi,A4,2019,93079,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,17700
+Mercedes-Benz,C-Class,2015,96957,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,18700
+Audi,A6,2022,16012,Diesel,3.0L V6 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,31600
+Chevrolet,Camaro,2022,15217,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,25700
+Tesla,Model Y,2018,91279,Electric,Single Electric Motor,Automatic,None reported,Yes,22800
+Ford,Escape,2024,2810,Gasoline,5.0L V8,Automatic,None reported,Yes,34700
+Nissan,Sentra,2018,46849,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,11900
+Hyundai,Tucson,2020,60328,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,14300
+Ford,Explorer,2021,33297,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,22100
+Tesla,Model 3,2021,24699,Electric,Single Electric Motor,Automatic,None reported,Yes,34200
+Toyota,Highlander,2020,43074,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,17200
+BMW,X5,2021,40735,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,27100
+Nissan,Pathfinder,2018,58551,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,12100
+Lexus,IS 300,2022,33436,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,42100
+Subaru,Impreza,2024,2500,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,31100
+Ford,F-150,2014,112295,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,13900
+Jeep,Wrangler,2020,65723,Diesel,3.0L V6 Turbo Diesel,Manual,None reported,Yes,25400
+Toyota,RAV4,2023,7327,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,24200
+Nissan,Rogue,2020,45063,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,15600
+Jeep,Grand Cherokee,2015,102999,Gasoline,3.5L V6,Automatic,None reported,Yes,19000
+Subaru,Impreza,2014,150745,Gasoline,3.5L V6,Automatic,None reported,Yes,8700
+Nissan,Altima,2022,23545,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,No,12700
+Mercedes-Benz,S-Class,2022,26386,Gasoline,2.5L I4,Automatic,None reported,Yes,58200
+Nissan,Altima,2022,30598,Gasoline,5.0L V8,Automatic,None reported,Yes,22100
+Hyundai,Sonata,2021,38323,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,18400
+Honda,Accord,2020,40564,Gasoline,2.5L I4,Automatic,None reported,Yes,17600
+Porsche,911,2018,96084,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,61400
+Mercedes-Benz,GLC,2021,38902,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,36900
+Hyundai,Elantra,2019,41434,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,10200
+BMW,M3,2023,15120,Gasoline,5.0L V8,Automatic,None reported,Yes,65300
+Audi,S5,2020,44518,Gasoline,5.0L V8,Automatic,None reported,Yes,35100
+Chevrolet,Equinox,2013,118729,Gasoline,3.5L V6,Manual,None reported,Yes,8100
+Ford,Mustang,2023,6397,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,28400
+Jeep,Wrangler,2014,150627,Gasoline,3.5L V6,CVT,None reported,Yes,10000
+Audi,S5,2022,21543,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,29500
+Tesla,Model S,2019,54706,Electric,Dual Electric Motor,Automatic,None reported,Yes,40500
+Audi,Q5,2022,24500,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,32000
+Tesla,Model Y,2016,73894,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,17100
+Ford,Escape,2019,71188,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,16400
+Mercedes-Benz,E-Class,2023,16218,Gasoline,5.0L V8,Automatic,None reported,Yes,58600
+Porsche,Cayenne,2021,38753,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,56100
+Ford,Explorer,2017,70339,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,13200
+Jeep,Cherokee,2019,56256,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,21700
+Hyundai,Sonata,2023,7493,Gasoline,3.5L V6,Automatic,None reported,Yes,22600
+Lexus,NX 300,2015,81674,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,20300
+Chevrolet,Tahoe,2020,20451,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,20100
+Honda,Civic,2023,12021,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,21700
+Nissan,Rogue,2024,2500,Gasoline,5.0L V8,Automatic,None reported,Yes,32000
+Audi,Q7,2017,103459,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,17200
+Audi,S5,2021,14219,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,35900
+Porsche,911,2015,182538,Gasoline,5.0L V8,CVT,None reported,Yes,36800
+Hyundai,Tucson,2021,41001,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,16000
+Jeep,Cherokee,2017,82340,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,14200
+BMW,X5,2017,64685,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,20200
+Hyundai,Tucson,2014,75627,Gasoline,2.5L I4,Manual,None reported,Yes,8200
+Porsche,Macan,2024,2500,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,74400
+Nissan,Sentra,2019,56666,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,13200
+Jeep,Grand Cherokee,2021,43416,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,32200
+Toyota,Camry,2017,82598,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,11800
+Toyota,Camry,2020,26332,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,17700
+Hyundai,Santa Fe,2021,38099,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,16400
+Chevrolet,Equinox,2018,104247,Gasoline,5.0L V8,Automatic,None reported,Yes,15500
+Ford,Explorer,2023,5359,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,27600
+Porsche,Macan,2020,31869,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,57300
+Lexus,NX 300,2015,89216,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,9900
+Honda,CR-V,2017,63468,Gasoline,5.0L V8,Automatic,None reported,Yes,12700
+Lexus,ES 350,2021,43346,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,31100
+Chevrolet,Malibu,2018,71280,Gasoline,5.0L V8,CVT,None reported,Yes,18100
+Subaru,Forester,2018,76610,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,13300
+Lexus,RX 350,2023,8829,Gasoline,5.0L V8,CVT,None reported,Yes,48300
+Honda,Civic,2017,86176,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,9800
+Hyundai,Elantra,2021,34012,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,15200
+Tesla,Model 3,2016,113819,Electric,Single Electric Motor,Automatic,None reported,Yes,17800
+Toyota,Camry,2016,72749,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,12100
+Porsche,911,2018,62800,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,57600
+Subaru,Forester,2021,45928,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,17600
+Honda,Accord,2022,27156,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,19900
+Honda,Civic,2022,22360,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,17600
+Audi,Q5,2016,121134,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,12600
+Ford,Escape,2022,23663,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,22100
+Lexus,ES 350,2020,59056,Gasoline,1.5L I4 Turbo,Dual-Clutch,At least 1 accident or damage reported,No,18700
+Nissan,Altima,2021,33329,Gasoline,3.5L V6,Automatic,None reported,Yes,19300
+Lexus,ES 350,2017,42095,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,22800
+Audi,A6,2019,60721,Gasoline,5.0L V8,Automatic,None reported,Yes,31100
+Subaru,Forester,2017,72949,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,14500
+Tesla,Model S,2018,81036,Electric,Single Electric Motor,Automatic,None reported,Yes,30700
+Porsche,Cayenne,2016,97538,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,34300
+Honda,Accord,2016,71805,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,8100
+Tesla,Model S,2019,36192,Electric,Single Electric Motor,Automatic,None reported,Yes,37700
+Audi,Q7,2022,13255,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,39800
+Jeep,Wrangler,2022,33488,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,28900
+Mercedes-Benz,C-Class,2023,12909,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,53000
+Nissan,Rogue,2023,12973,Gasoline,5.0L V8,Automatic,None reported,Yes,21900
+Toyota,Prius,2021,17842,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,22300
+BMW,M3,2020,46722,Gasoline,3.5L V6,Automatic,None reported,Yes,48000
+Nissan,Sentra,2017,78979,Gasoline,5.0L V8,Automatic,None reported,Yes,9600
+Chevrolet,Malibu,2019,65481,Gasoline,5.0L V8,Automatic,None reported,Yes,20900
+Toyota,Corolla,2023,10745,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,24100
+Chevrolet,Silverado,2018,69846,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,14000
+Hyundai,Elantra,2016,55937,Gasoline,3.5L V6,Automatic,None reported,Yes,9300
+Toyota,RAV4,2014,119363,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,8700
+Ford,Escape,2021,46389,Gasoline,3.5L V6,Automatic,None reported,Yes,21000
+Chevrolet,Malibu,2020,32111,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,20800
+Jeep,Grand Cherokee,2013,119770,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13000
+Toyota,Tacoma,2015,54979,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,8800
+Toyota,RAV4,2015,92150,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,8800
+Toyota,Camry,2018,60480,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,14200
+Nissan,Rogue,2021,28418,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,14700
+Chevrolet,Tahoe,2021,35028,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,19700
+Lexus,ES 350,2018,79354,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,23400
+Honda,CR-V,2014,84552,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,9000
+Nissan,Sentra,2019,55615,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,12600
+Nissan,Rogue,2022,26275,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,22000
+Tesla,Model S,2016,88455,Electric,Dual Electric Motor,Automatic,None reported,Yes,29800
+Mercedes-Benz,GLE,2020,48461,Gasoline,5.0L V8,Automatic,None reported,Yes,37000
+Porsche,Cayenne,2013,146118,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20100
+BMW,3 Series,2018,64905,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,27200
+Honda,Pilot,2019,65970,Gasoline,3.5L V6,Automatic,None reported,Yes,16400
+Tesla,Model 3,2024,2500,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,Yes,36300
+Lexus,ES 350,2020,51759,Gasoline,1.5L I4 Turbo,Manual,At least 1 accident or damage reported,No,22400
+Toyota,Prius,2018,72350,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,9200
+Subaru,Outback,2016,72446,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,12000
+Hyundai,Tucson,2019,72862,Gasoline,3.5L V6,Dual-Clutch,At least 1 accident or damage reported,No,10200
+Nissan,Rogue,2016,93760,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,9800
+Audi,A6,2012,82753,Gasoline,5.0L V8,Manual,None reported,Yes,15800
+Jeep,Grand Cherokee,2013,122235,Gasoline,5.0L V8,Automatic,None reported,Yes,13900
+Honda,Civic,2016,73950,Gasoline,2.5L I4,Dual-Clutch,At least 1 accident or damage reported,Yes,7400
+Jeep,Grand Cherokee,2016,125849,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,16800
+Nissan,Altima,2019,49231,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,15000
+Subaru,Outback,2020,24109,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,19900
+Hyundai,Tucson,2016,93980,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,8900
+Hyundai,Sonata,2017,139496,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,8500
+Ford,Explorer,2021,37641,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,18300
+Tesla,Model S,2014,101848,Electric,Dual Electric Motor,Automatic,None reported,Yes,22500
+BMW,M3,2020,38873,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,42000
+Toyota,Camry,2021,28559,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,20400
+Toyota,Highlander,2018,93281,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,No,8600
+Chevrolet,Equinox,2021,28689,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,24600
+Porsche,911,2024,2500,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,113500
+BMW,X3,2020,33098,Hybrid,2.0L I4 Hybrid,Automatic,At least 1 accident or damage reported,Yes,24700
+Chevrolet,Malibu,2023,8343,Gasoline,2.5L I4,Automatic,None reported,Yes,26200
+Porsche,911,2020,59755,Gasoline,3.5L V6,Automatic,None reported,Yes,78200
+Audi,A4,2013,123509,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,13200
+Ford,Mustang,2021,47010,Gasoline,3.5L V6,Automatic,None reported,Yes,23000
+Toyota,Highlander,2015,100811,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,9300
+Hyundai,Tucson,2015,85277,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,8200
+Audi,A4,2017,72213,Gasoline,3.5L V6,Automatic,None reported,Yes,24600
+Hyundai,Elantra,2019,52924,Gasoline,2.5L I4,Automatic,None reported,Yes,12500
+BMW,X3,2023,5521,Gasoline,3.5L V6,Automatic,None reported,Yes,53300
+Jeep,Grand Cherokee,2019,54987,Gasoline,5.0L V8,Automatic,None reported,Yes,29500
+Tesla,Model 3,2021,28395,Electric,Single Electric Motor,Automatic,None reported,Yes,36000
+Audi,S5,2020,49606,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,31500
+Jeep,Wrangler,2021,37088,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,22300
+Nissan,Sentra,2020,53427,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,9700
+Toyota,Highlander,2013,92252,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,No,6100
+BMW,M3,2022,13016,Gasoline,2.5L I4,Automatic,None reported,Yes,54500
+Lexus,RX 350,2022,37779,Gasoline,2.5L I4,Manual,At least 1 accident or damage reported,Yes,29700
+Toyota,Prius,2023,3252,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,26800
+Porsche,Macan,2015,92358,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,25600
+BMW,M3,2023,12887,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,60400
+Chevrolet,Tahoe,2020,42410,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20600
+Ford,Explorer,2024,5440,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,26400
+Toyota,Corolla,2022,8039,Gasoline,3.5L V6,Automatic,None reported,Yes,21200
+Chevrolet,Malibu,2016,98111,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,12600
+Subaru,Outback,2017,103650,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,11400
+Honda,HR-V,2020,54141,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,17600
+Lexus,IS 300,2016,78178,Gasoline,1.5L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,15100
+Tesla,Model S,2020,37892,Electric,Dual Electric Motor,Automatic,None reported,Yes,46600
+Chevrolet,Equinox,2024,5055,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,28800
+Mercedes-Benz,GLC,2017,66588,Gasoline,2.5L I4,Automatic,None reported,Yes,24800
+Jeep,Grand Cherokee,2014,91613,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,13900
+Porsche,Macan,2022,36465,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,69300
+Hyundai,Tucson,2012,137576,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,5200
+Honda,Accord,2019,57773,Gasoline,2.0L I4 Turbo,Manual,At least 1 accident or damage reported,Yes,11700
+Jeep,Cherokee,2023,11387,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,30000
+Ford,F-150,2016,98643,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,13600
+Hyundai,Santa Fe,2023,8925,Gasoline,2.5L I4,Automatic,None reported,Yes,20100
+Chevrolet,Silverado,2019,53550,Gasoline,3.5L V6,Automatic,None reported,Yes,17800
+Audi,A6,2020,67680,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,33400
+Mercedes-Benz,GLE,2021,45213,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,34400
+Porsche,911,2012,171011,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,25400
+Ford,Explorer,2016,88712,Gasoline,5.0L V8,Automatic,None reported,Yes,13500
+Subaru,Outback,2022,20965,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,22900
+Porsche,Macan,2023,18236,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,81800
+Honda,Accord,2024,7241,Gasoline,2.5L I4,Automatic,None reported,Yes,27100
+Chevrolet,Camaro,2019,68823,Gasoline,1.5L I4 Turbo,Manual,None reported,Yes,15600
+Lexus,NX 300,2022,31240,Gasoline,2.5L I4,Automatic,None reported,Yes,33600
+Porsche,Cayenne,2017,93779,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,38300
+Chevrolet,Tahoe,2021,44815,Gasoline,3.5L V6,Automatic,None reported,Yes,21700
+Subaru,Forester,2018,75223,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,14500
+Hyundai,Elantra,2018,68758,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,No,6400
+Honda,Civic,2014,87695,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,7100
+Porsche,Cayenne,2024,2500,Gasoline,2.0L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,75500
+BMW,X5,2015,117169,Gasoline,2.5L I4,CVT,None reported,Yes,16800
+Lexus,RX 350,2019,87901,Gasoline,3.5L V6,Automatic,None reported,Yes,24900
+Tesla,Model Y,2024,2500,Electric,Dual Electric Motor,Automatic,None reported,Yes,58400
+Toyota,Camry,2021,30965,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,14200
+Lexus,IS 300,2018,84128,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,23200
+Honda,CR-V,2019,64872,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,14300
+Toyota,Highlander,2021,27266,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,20700
+Ford,Edge,2023,10542,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,32700
+Porsche,Panamera,2023,2964,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,125300
+Toyota,Highlander,2022,26069,Gasoline,5.0L V8,CVT,At least 1 accident or damage reported,No,19000
+Chevrolet,Equinox,2015,162526,Gasoline,2.5L I4,Automatic,None reported,Yes,9900
+BMW,5 Series,2019,53507,Gasoline,2.5L I4,Automatic,None reported,Yes,28300
+Mercedes-Benz,GLE,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,57700
+Toyota,Tacoma,2016,108597,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,9900
+Lexus,NX 300,2018,46222,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,27600
+Chevrolet,Camaro,2017,88917,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,14000
+Toyota,Camry,2023,3764,Gasoline,2.5L I4,Automatic,None reported,Yes,26800
+Chevrolet,Equinox,2022,24722,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,23300
+BMW,M3,2024,5354,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,72200
+Lexus,RX 350,2020,85140,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,22500
+Jeep,Cherokee,2020,51675,Gasoline,2.5L I4,Automatic,None reported,Yes,21400
+Hyundai,Santa Fe,2019,51060,Gasoline,2.5L I4,Manual,None reported,Yes,12600
+Tesla,Model S,2013,134504,Electric,Single Electric Motor,Automatic,None reported,Yes,15800
+Chevrolet,Malibu,2020,41770,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,17700
+Toyota,RAV4,2013,157869,Gasoline,3.5L V6,Automatic,None reported,Yes,6700
+BMW,3 Series,2015,121345,Gasoline,2.5L I4,Automatic,None reported,Yes,17000
+Toyota,Highlander,2020,67229,Gasoline,3.5L V6,Automatic,None reported,Yes,17300
+Audi,S5,2018,89422,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,24600
+Ford,F-150,2021,33290,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,28300
+Lexus,ES 350,2014,201743,Gasoline,2.5L I4,CVT,None reported,Yes,11900
+Nissan,Altima,2024,2952,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,27500
+Tesla,Model Y,2021,45396,Electric,Single Electric Motor,Automatic,At least 1 accident or damage reported,No,23300
+Porsche,Cayenne,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,72300
+BMW,M3,2020,52641,Gasoline,2.5L I4,CVT,At least 1 accident or damage reported,Yes,36200
+Jeep,Cherokee,2023,11261,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,39700
+Audi,S5,2017,132194,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,18800
+Subaru,Crosstrek,2017,92585,Gasoline,3.5L V6,Automatic,None reported,Yes,11700
+Tesla,Model 3,2016,91780,Electric,Dual Electric Motor,Automatic,None reported,Yes,20900
+Porsche,Panamera,2016,114467,Gasoline,3.5L V6,CVT,None reported,Yes,43500
+Mercedes-Benz,E-Class,2018,77423,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,22300
+Toyota,Camry,2015,62946,Gasoline,1.5L I4 Turbo,CVT,At least 1 accident or damage reported,Yes,8400
+BMW,M3,2016,132443,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,25300
+Toyota,Tacoma,2018,69995,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,15200
+Toyota,RAV4,2019,61802,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,15100
+Jeep,Wrangler,2018,69840,Gasoline,2.5L I4,Automatic,None reported,Yes,16500
+Subaru,Forester,2023,19854,Gasoline,2.5L I4,Automatic,None reported,Yes,23100
+Toyota,Camry,2021,26278,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,20100
+Tesla,Model S,2016,113832,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,16900
+Jeep,Wrangler,2021,16353,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,19900
+Porsche,Macan,2024,2500,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,86500
+Audi,Q7,2021,22323,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,30700
+Honda,CR-V,2020,57835,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,Yes,13400
+Audi,A6,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,36800
+Subaru,Impreza,2019,39237,Gasoline,5.0L V8,CVT,None reported,Yes,17600
+Hyundai,Tucson,2020,29229,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,14900
+Subaru,Crosstrek,2022,21060,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,16900
+Lexus,ES 350,2019,55752,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,29400
+Mercedes-Benz,GLC,2016,65256,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,23900
+Ford,F-150,2021,38129,Gasoline,5.0L V8,Automatic,None reported,Yes,39100
+Tesla,Model Y,2019,48356,Electric,Dual Electric Motor,Automatic,None reported,Yes,33700
+Ford,Edge,2016,113337,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,11400
+Jeep,Cherokee,2021,43412,Gasoline,2.0L I4 Turbo,Manual,None reported,Yes,23400
+Lexus,RX 350,2015,69609,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,20100
+Ford,Explorer,2013,110763,Gasoline,5.0L V8,Manual,None reported,Yes,9500
+Honda,Accord,2021,31509,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,19200
+Audi,A6,2016,106561,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,17200
+Honda,CR-V,2021,30398,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,18300
+Toyota,RAV4,2018,63574,Diesel,2.0L I4 Turbo Diesel,Automatic,At least 1 accident or damage reported,Yes,10000
+BMW,3 Series,2019,60743,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,28300
+Mercedes-Benz,C-Class,2023,5337,Gasoline,5.0L V8,Manual,None reported,Yes,57900
+Toyota,Camry,2020,38999,Hybrid,2.5L I4 Hybrid,CVT,At least 1 accident or damage reported,No,12600
+Hyundai,Santa Fe,2014,86039,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,8200
+Chevrolet,Tahoe,2020,50682,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19300
+Audi,S5,2018,66596,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,29800
+Honda,Pilot,2022,24320,Gasoline,3.5L V6,Automatic,None reported,Yes,22200
+Lexus,ES 350,2019,51478,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,27500
+Hyundai,Elantra,2019,73549,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,10700
+Mercedes-Benz,C-Class,2022,31853,Gasoline,2.5L I4,Automatic,None reported,Yes,42500
+Mercedes-Benz,C-Class,2017,90104,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,17500
+Audi,A6,2022,14431,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,39200
+Ford,F-150,2012,197140,Gasoline,3.5L V6,Automatic,None reported,Yes,8900
+Honda,CR-V,2023,14026,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,20200
+Tesla,Model Y,2018,85257,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,No,16300
+Chevrolet,Equinox,2018,122037,Gasoline,3.5L V6,Automatic,None reported,Yes,13000
+Chevrolet,Equinox,2023,9143,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,25700
+Honda,CR-V,2021,25785,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,19300
+BMW,X5,2013,169418,Gasoline,5.0L V8,CVT,None reported,Yes,13500
+Nissan,Rogue,2023,9979,Gasoline,5.0L V8,Automatic,None reported,Yes,26800
+Mercedes-Benz,GLC,2020,41515,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,28700
+Honda,Civic,2021,16514,Gasoline,3.0L V6 Turbo,Dual-Clutch,None reported,Yes,18100
+Tesla,Model S,2013,128982,Electric,Single Electric Motor,Automatic,None reported,Yes,15400
+Ford,F-150,2019,67113,Gasoline,2.5L I4,Dual-Clutch,None reported,Yes,21900
+Toyota,Highlander,2017,119784,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,9800
+Mercedes-Benz,S-Class,2015,61867,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,30900
+BMW,3 Series,2023,9867,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,37500
+BMW,5 Series,2019,44945,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,29400
+Honda,Pilot,2017,32837,Gasoline,1.5L I4 Turbo,Automatic,At least 1 accident or damage reported,Yes,9900
+Mercedes-Benz,GLE,2020,24509,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,39400
+Hyundai,Tucson,2021,32516,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,17200
+Lexus,IS 300,2024,2500,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,47600
+Audi,Q7,2014,125746,Gasoline,2.5L I4,Automatic,None reported,Yes,15700
+Ford,Escape,2023,6388,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,30000
+Mercedes-Benz,GLE,2016,120902,Gasoline,3.0L V6 Turbo,Manual,At least 1 accident or damage reported,Yes,18300
+Mercedes-Benz,E-Class,2022,18023,Gasoline,2.5L I4,Automatic,None reported,Yes,41100
+Tesla,Model 3,2017,89317,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,18200
+Jeep,Cherokee,2018,105704,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,No,12800
+Honda,Civic,2023,8961,Gasoline,5.0L V8,Automatic,None reported,Yes,24200
+Audi,S5,2017,90976,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,22200
+Jeep,Cherokee,2022,24530,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,28500
+Nissan,Altima,2021,42146,Diesel,3.0L V6 Turbo Diesel,Automatic,None reported,Yes,19200
+Porsche,Panamera,2017,113069,Gasoline,3.5L V6,Automatic,None reported,Yes,48600
+Lexus,IS 300,2022,18796,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,33900
+Hyundai,Tucson,2020,51450,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,14400
+Chevrolet,Silverado,2015,99623,Gasoline,3.5L V6,CVT,None reported,Yes,12000
+Tesla,Model S,2019,53230,Electric,Dual Electric Motor,Automatic,None reported,Yes,40300
+Honda,Pilot,2022,18358,Gasoline,2.0L I4 Turbo,Automatic,At least 1 accident or damage reported,No,16100
+Ford,Mustang,2019,69658,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,19900
+Ford,F-150,2023,7744,Gasoline,3.0L V6 Turbo,CVT,None reported,Yes,40900
+Honda,Pilot,2019,63404,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,14500
+Porsche,Cayenne,2021,46212,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,No,45600
+Mercedes-Benz,GLC,2017,92776,Gasoline,5.0L V8,Manual,At least 1 accident or damage reported,Yes,20700
+Jeep,Wrangler,2014,97296,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,11100
+Chevrolet,Camaro,2020,55515,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,No,14200
+Nissan,Rogue,2023,9395,Gasoline,2.5L I4,Automatic,None reported,Yes,19600
+Nissan,Pathfinder,2020,44619,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,14100
+Jeep,Cherokee,2020,44148,Gasoline,3.5L V6,Automatic,None reported,Yes,22800
+Tesla,Model S,2019,70322,Electric,Single Electric Motor,Automatic,None reported,Yes,34800
+Honda,Pilot,2020,38309,Gasoline,2.0L I4 Turbo,Dual-Clutch,None reported,Yes,17200
+Ford,Edge,2019,48297,Gasoline,3.5L V6,Automatic,None reported,Yes,18800
+Tesla,Model 3,2018,86320,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,19300
+Tesla,Model 3,2024,2500,Electric,Single Electric Motor,Automatic,None reported,Yes,51400
+Porsche,Macan,2015,117026,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,32900
+Mercedes-Benz,GLE,2018,80060,Gasoline,5.0L V8,Dual-Clutch,None reported,Yes,31200
+Hyundai,Santa Fe,2019,47543,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,13900
+Ford,Explorer,2016,126808,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,11400
+Ford,Edge,2022,22774,Gasoline,3.5L V6,Automatic,None reported,Yes,27200
+Lexus,IS 300,2020,40984,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,28200
+Chevrolet,Malibu,2019,58929,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,17600
+Toyota,Prius,2020,16345,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,19700
+Mercedes-Benz,GLC,2017,61403,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,25800
+Audi,Q5,2017,84271,Hybrid,2.5L I4 Hybrid,Automatic,None reported,Yes,19100
+Mercedes-Benz,GLE,2020,44544,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,35100
+Porsche,Cayenne,2023,13332,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,73700
+Mercedes-Benz,GLE,2022,5290,Gasoline,2.5L I4,CVT,None reported,Yes,48200
+Mercedes-Benz,GLE,2020,43808,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,35600
+BMW,X5,2022,20567,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,40600
+Porsche,Panamera,2013,136568,Gasoline,5.0L V8,CVT,None reported,Yes,37800
+Hyundai,Tucson,2016,84109,Gasoline,1.5L I4 Turbo,CVT,None reported,Yes,9500
+Nissan,Sentra,2018,112152,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,9900
+Mercedes-Benz,S-Class,2019,48809,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,45800
+Ford,Edge,2020,42116,Gasoline,3.5L V6,Dual-Clutch,None reported,Yes,21700
+Toyota,Corolla,2018,87252,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,10900
+Porsche,Cayenne,2018,68930,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,38400
+BMW,3 Series,2015,145827,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,17000
+Toyota,RAV4,2013,178750,Gasoline,5.0L V8,CVT,None reported,Yes,7100
+BMW,X3,2022,17274,Gasoline,2.5L I4,Automatic,At least 1 accident or damage reported,No,31400
+Porsche,Panamera,2022,2500,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,90900
+Chevrolet,Silverado,2021,44765,Hybrid,2.0L I4 Hybrid,CVT,None reported,Yes,23400
+BMW,X3,2022,11735,Hybrid,2.5L I4 Hybrid,Automatic,At least 1 accident or damage reported,No,30200
+Tesla,Model Y,2014,106388,Electric,Dual Electric Motor,Automatic,None reported,Yes,17300
+Porsche,Panamera,2014,140342,Gasoline,3.5L V6,Automatic,At least 1 accident or damage reported,Yes,28600
+Nissan,Rogue,2017,82455,Gasoline,2.5L I4,Automatic,None reported,Yes,10800
+Ford,Explorer,2013,152915,Gasoline,5.0L V8,CVT,None reported,Yes,9200
+Porsche,911,2022,16281,Gasoline,2.5L I4,Automatic,None reported,Yes,94600
+Toyota,Highlander,2022,28411,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,22600
+Ford,Edge,2016,85832,Hybrid,2.0L I4 Hybrid,Automatic,None reported,Yes,12100
+Porsche,Cayenne,2017,85067,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,35800
+BMW,5 Series,2017,93607,Gasoline,2.5L I4,Automatic,None reported,Yes,19300
+Lexus,IS 300,2024,5097,Gasoline,3.5L V6,Automatic,None reported,Yes,48700
+Toyota,Prius,2012,74637,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,8000
+Hyundai,Sonata,2023,13631,Diesel,2.0L I4 Turbo Diesel,Automatic,None reported,Yes,22600
+Tesla,Model 3,2022,30069,Electric,Dual Electric Motor,Automatic,At least 1 accident or damage reported,Yes,30800
+Mercedes-Benz,S-Class,2012,103940,Gasoline,2.5L I4,CVT,None reported,Yes,17900
+Subaru,Crosstrek,2020,27638,Gasoline,3.0L V6 Turbo,Automatic,None reported,Yes,20200
+Chevrolet,Malibu,2017,82006,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,13000
+Mercedes-Benz,E-Class,2020,53458,Gasoline,3.0L V6 Turbo,CVT,At least 1 accident or damage reported,No,24200
+Mercedes-Benz,S-Class,2015,77015,Gasoline,3.5L V6,Automatic,None reported,Yes,31000
+Chevrolet,Camaro,2022,14358,Gasoline,1.5L I4 Turbo,Automatic,None reported,Yes,23700
+Toyota,Tacoma,2014,86388,Gasoline,5.0L V8,Automatic,At least 1 accident or damage reported,Yes,9100
+Porsche,Macan,2018,104338,Gasoline,3.5L V6,Automatic,None reported,Yes,39500
+Lexus,NX 300,2016,78370,Gasoline,2.5L I4,Automatic,None reported,Yes,20400
+Lexus,RX 350,2017,96988,Gasoline,3.0L V6 Turbo,Dual-Clutch,At least 1 accident or damage reported,No,13700
+Honda,CR-V,2012,137104,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,6200
+Lexus,NX 300,2022,15635,Gasoline,2.5L I4,Automatic,None reported,Yes,39200
+Mercedes-Benz,GLC,2019,40310,Gasoline,2.0L I4 Turbo,Automatic,None reported,Yes,30100
+Ford,Edge,2024,2500,Gasoline,2.0L I4 Turbo,CVT,None reported,Yes,31100
+Toyota,Tacoma,2017,118704,Gasoline,3.0L V6 Turbo,Automatic,At least 1 accident or damage reported,Yes,8500
+Lexus,NX 300,2021,55590,Gasoline,5.0L V8,Automatic,None reported,Yes,36700
+Ford,F-150,2018,56257,Gasoline,5.0L V8,Dual-Clutch,At least 1 accident or damage reported,No,17200
+Hyundai,Tucson,2016,93145,Gasoline,2.5L I4,Manual,None reported,Yes,9200
+Chevrolet,Tahoe,2023,16866,Gasoline,3.0L V6 Turbo,Manual,None reported,Yes,30100
+Subaru,Outback,2015,98211,Hybrid,2.0L I4 Hybrid,CVT,At least 1 accident or damage reported,Yes,7700
+Audi,A6,2014,158682,Gasoline,5.0L V8,Automatic,None reported,Yes,15800
+Nissan,Pathfinder,2021,38961,Hybrid,2.5L I4 Hybrid,CVT,None reported,Yes,16700
